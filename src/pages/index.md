@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/barre-fitness.jpeg
+title: fitness title here
+image: /img/barre-fitness-group.jpeg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: subheading here........................
 mainpitch:
   title: Why Kaldi
   description: >
