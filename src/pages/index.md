@@ -2,19 +2,19 @@
 templateKey: index-page
 title: fitness title here
 image: /img/barre-fitness-group.jpeg
-heading: Great coffee with a conscience
+heading: Online classes with .....
 subheading: subheading here........................
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: SLC Fitness
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+    interdum pretium nunc, eu semper sapien cursus vitae. Donec lacus metus,
+    feugiat at ligula sed, euismod blandit libero. Phasellus nibh quam, tempus
+    consectetur venenatis a.
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+  interdum pretium nunc, eu semper sapien cursus vitae. Donec lacus metus,
+  feugiat at ligula sed, euismod blandit libero. Phasellus nibh quam, tempus
+  consectetur venenatis a, faucibus rhoncus lectus. Aliquam aliquam risus et
+  pulvinar pulvinar. Donec hendrerit ante eu ultricies bibendum.
 intro:
   blurbs:
     - image: /img/image4-2-.jpeg
