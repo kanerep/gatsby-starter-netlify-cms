@@ -83,6 +83,10 @@ $black: #2b2523;
   margin-top: 0 !important;
 }
 
+.m-auto {
+  margin: auto;
+}
+
 .navbar-item .icon {
   color: $primary;
 }
@@ -221,5 +225,13 @@ footer.footer {
     text-align: center;
     max-width: 70%;
     margin: 0 0 1em;
+  }
+}
+
+// Side by side component 
+
+.side-by-side-feature {
+  :nth-child(odd) {
+    flex-direction: row-reverse;
   }
 }
