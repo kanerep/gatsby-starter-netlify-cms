@@ -18,6 +18,7 @@ const FeatureGrid = ({ gridItems }) => (
             </div>
           </div>
           <div class="column is-6 m-auto">
+            <h3>{item.testheading}</h3>
             <p>{item.text}</p>
           </div>
       </div>
