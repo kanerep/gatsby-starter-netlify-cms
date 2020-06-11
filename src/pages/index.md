@@ -18,6 +18,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
 intro:
   blurbs:
     - image: /img/image4-2-.jpeg
+      heading: Testing blurb heading 1
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -25,6 +26,7 @@ intro:
         local communities. Check our post or contact us directly for current
         availability.
     - image: /img/image2.jpeg
+      heading: Testing blurb heading 2
       text: No excuses! We even have classes you can enjoy with your baby. There
         hasn't been a better time to start than now. Lorem ipsum a few times,
         and it will all be fine. We’re proud to offer a variety of coffee beans
