@@ -25,6 +25,7 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
+      heading: "This is awesome, how to remove required though "
     - image: /img/image2.jpeg
       heading: Testing blurb heading 2
       text: No excuses! We even have classes you can enjoy with your baby. There
@@ -32,6 +33,7 @@ intro:
         and it will all be fine. We’re proud to offer a variety of coffee beans
         grown with great care for the environment and local communities. Check
         our post or contact us directly for current availability.
+      heading: fffff
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
