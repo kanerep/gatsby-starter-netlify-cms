@@ -11,7 +11,7 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
 		<div
 			className='full-width-image margin-top-0'
 			style={{
-				backgroundImage: `url(${!!image.childImageSharp ? image.childImageSharp.fluid.src : image})`,
+				backgroundImage: `linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(0, 128, 128, 0.63)), url(${!!image.childImageSharp ? image.childImageSharp.fluid.src : image})`,
 				backgroundPosition: `top left`,
 				backgroundAttachment: `fixed`
 			}}
@@ -26,35 +26,31 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
 					flexDirection: 'column'
 				}}
 			>
-				<h1
-					className='has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen'
-					style={{
-						boxShadow: 'rgb(105, 105, 105) 0.5rem 0px 0px, rgb(105, 105, 105) -0.5rem 0px 0px',
-						backgroundColor: 'rgb(105, 105, 105)',
-						color: 'white',
-						lineHeight: '1',
-						padding: '0.25em'
-					}}
-				>
-					{title}
-				</h1>
-				<h3
-					className='has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen'
-					style={{
-						boxShadow: 'rgb(105, 105, 105) 0.5rem 0px 0px, rgb(105, 105, 105) -0.5rem 0px 0px',
-						backgroundColor: 'rgb(105, 105, 105)',
-						color: 'white',
-						lineHeight: '1',
-						padding: '0.25em'
-					}}
-				>
-					{subheading}
-				</h3>
+				<div class='container'>
+					<h1
+						className='has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen'
+						style={{
+							color: 'white',
+							lineHeight: '1',
+							marginBottom: '16px'
+						}}
+					>
+						{title}
+					</h1>
+					<h3
+						className='has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen'
+						style={{
+							color: 'white',
+							lineHeight: '1',
+						}}
+					>
+						{subheading}
+					</h3>
+				</div>
 			</div>
 		</div>
 		<section className='section section--gradient'>
 			<div className='container'>
-				<div className='section'>
 					<div className='columns'>
 						<div className='column is-10 is-offset-1'>
 							<div className='content'>
@@ -92,7 +88,6 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
 							</div>
 						</div>
 					</div>
-				</div>
 			</div>
 		</section>
 	</div>
