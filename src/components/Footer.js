@@ -19,7 +19,7 @@ const Footer = class extends React.Component {
           /> */}
         {/* </div> */}
         <div className="content has-text-centered has-background-black has-text-white-ter">
-          <h2 class='nav-heading has-text-primary has-text-weight-bold'>SLC Fitness</h2>
+          <h2 className='nav-heading has-text-primary has-text-weight-bold'>SLC Fitness</h2>
           <div className="container has-background-black has-text-white-ter">
             <div className="columns">
               <div className="column is-4">
