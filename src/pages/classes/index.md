@@ -73,14 +73,14 @@ pricing:
         - Great for busy.. people
         - use a comma
         - to add new bullet points
-    - plan: "Monthly ? "
-      price: "29.99"
-      description: Access to all classes for the month save X amount
-      items:
-        - some more bullet points if necessary
     - plan: "Weekly? "
       price: "12.99"
       description: weekly classes
       items:
         - more bullet points
+    - plan: "Monthly ? "
+      price: "29.99"
+      description: Access to all classes for the month save X amount
+      items:
+        - some more bullet points if necessary
 ---
