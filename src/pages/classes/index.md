@@ -78,4 +78,9 @@ pricing:
       description: Access to all classes for the month save X amount
       items:
         - some more bullet points if necessary
+    - plan: "Weekly? "
+      price: "12.99"
+      description: weekly classes
+      items:
+        - more bullet points
 ---
