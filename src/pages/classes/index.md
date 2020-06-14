@@ -33,12 +33,8 @@ intro:
         sed neque. Sed eleifend rhoncus semper. Donec vehicula pretium
         vulputate.
       testheading: Class Example Three
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: This may be removed for now
+  description: "This may be removed for now "
 main:
   heading: More text can go here if required...
   description: >
