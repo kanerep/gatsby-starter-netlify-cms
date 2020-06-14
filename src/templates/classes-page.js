@@ -28,8 +28,8 @@ export const ClassesPageTemplate = ({
 			<h2
 				className='has-text-weight-bold is-size-1'
 				style={{
-					boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-					backgroundColor: '#f40',
+					boxShadow: '0.5rem 0 0 #48D1CC, -0.5rem 0 0 #48D1CC',
+					backgroundColor: '#48D1CC',
 					color: 'white',
 					padding: '1rem'
 				}}
@@ -55,7 +55,7 @@ export const ClassesPageTemplate = ({
 									<p>{main.description}</p>
 								</div>
 							</div>
-							<div className='tile is-ancestor'>
+							{/* <div className='tile is-ancestor'>
 								<div className='tile is-vertical'>
 									<div className='tile'>
 										<div className='tile is-parent is-vertical'>
@@ -75,7 +75,7 @@ export const ClassesPageTemplate = ({
 										</article>
 									</div>
 								</div>
-							</div>
+							</div> */}
 							<Testimonials testimonials={testimonials} />
 							<div
 								className='full-width-image-container'
