@@ -32,19 +32,11 @@ intro:
         and it will all be fine. We’re proud to offer a variety of coffee beans
         grown with great care for the environment and local communities. Check
         our post or contact us directly for current availability.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: This may be removed for now
+  description: This may also be removed for now
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: I think I may have removed this one for now
+  description: This may be removed..... for now.
   image1:
     alt: A mum/baby class
     image: /img/image2.jpeg
