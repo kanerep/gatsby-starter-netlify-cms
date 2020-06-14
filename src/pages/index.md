@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: fitness title here
+title: fitness title here hsfhfhf
 image: /img/barre-fitness-group.jpeg
 heading: Online classes with .....
 subheading: subheading here........................
