@@ -19,13 +19,13 @@ intro:
         sed neque. Sed eleifend rhoncus semper. Donec vehicula pretium
         vulputate.
       testheading: Class Example One
-    - image: /img/slc-merchandise.jpeg
+    - image: /img/barre-fitness.jpeg
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nunc massa,
         vestibulum vestibulum tempus eget, iaculis eu ipsum. Pellentesque nec
         mollis tellus. Nullam semper sapien ut justo volutpat fringilla ac sed
         neque. Sed eleifend rhoncus semper. Donec vehicula pretium vulputate.
       testheading: Class Example Two
-    - image: /img/slc-merchandise.jpeg
+    - image: /img/barre-fitness.jpeg
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nunc
         massa, vestibulum vestibulum tempus eget, iaculis eu ipsum. Pellentesque
