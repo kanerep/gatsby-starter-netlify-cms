@@ -46,12 +46,12 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: A mum/baby class
+    image: /img/image2.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: A xxxxx class. This text is used for accessibility.
+    image: /img/bums-tums-workout.jpeg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: A xxxx class.
+    image: /img/bums-tums-workout.jpeg
 ---
