@@ -64,11 +64,18 @@ testimonials:
 full_image: /img/barre-fitness-group.jpeg
 pricing:
   heading: How much do the classes cost?
-  description: The classes are set at a base rate of £9.99.
+  description: The classes are set at a base rate of £4.99.
   plans:
     - plan: Pay per session
       price: "4.99"
-      description: This is a pay as you go rate and is only for one session
+      description: Some description can go here? If needed
       items:
-        - "- Barre fitness"
+        - Great for busy.. people
+        - use a comma
+        - to add new bullet points
+    - plan: "Monthly ? "
+      price: "29.99"
+      description: Access to all classes for the month save X amount
+      items:
+        - some more bullet points if necessary
 ---
