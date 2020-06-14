@@ -61,7 +61,7 @@ testimonials:
   - author: Rachel
     quote: "This class was perfect for all abilities, I'm a beginner and had great
       fun :) "
-full_image: /img/barre-fitness-group.jpeg
+full_image: /img/barre-fitness.jpeg
 pricing:
   heading: How much do the classes cost?
   description: The classes are set at a base rate of £4.99.
