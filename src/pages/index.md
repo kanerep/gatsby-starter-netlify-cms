@@ -6,10 +6,11 @@ heading: Online classes with .....
 subheading: subheading here........................
 mainpitch:
   title: SLC Fitness
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-    interdum pretium nunc, eu semper sapien cursus vitae. Donec lacus metus,
-    feugiat at ligula sed, euismod blandit libero. Phasellus nibh quam, tempus
-    consectetur venenatis a.
+  description: "Running a variety of classes including Legs bums and tums, Fat
+    burning, Barre fitness, booty burn and specialist postnatal classes for mum
+    and baby. Classes that are designed to make you feel amazing whilst
+    challenging your body and working up a sweat. Suitable for all fitness
+    levels.  "
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
   interdum pretium nunc, eu semper sapien cursus vitae. Donec lacus metus,
   feugiat at ligula sed, euismod blandit libero. Phasellus nibh quam, tempus
