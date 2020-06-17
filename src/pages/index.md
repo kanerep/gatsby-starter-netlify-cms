@@ -6,8 +6,8 @@ heading: Online classes with .....
 subheading: subheading here........................
 mainpitch:
   title: SLC Fitness
-  description: "Running a variety of classes including Legs bums and tums, Fat
-    burning, Barre fitness, booty burn and specialist postnatal classes for mum
+  description: "Running a variety of classes including Legs Bums and Tums, Fat
+    Burning, Barre Fitness, Booty Burn and specialist Postnatal classes for mum
     and baby. Classes that are designed to make you feel amazing whilst
     challenging your body and working up a sweat. Suitable for all fitness
     levels.  "
