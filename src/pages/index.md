@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: changing the title
-image: /img/barre-fitness-group.jpeg
+image: /img/slc-fitness-picture-14.jpg
 heading: Online classes with .....
 subheading: subheading here........................
 mainpitch:
