@@ -3,7 +3,7 @@ heading: A wide selection of fun fitness classes
 path: /classes
 templateKey: classes-page
 title: Our Classes
-image: /img/barre-fitness-group.jpeg
+image: /img/image4-2-.jpeg
 description: SLC Fitness Lorem ipsum dolor sit amet, consectetur adipiscing
   elit. Morbi nunc massa, vestibulum vestibulum tempus eget, iaculis eu ipsum.
   Pellentesque nec mollis tellus. Nullam semper sapien ut justo volutpat
@@ -60,23 +60,23 @@ testimonials:
 full_image: /img/barre-fitness.jpeg
 pricing:
   heading: How much do the classes cost?
-  description: The classes are set at a base rate of £4.99.
+  description: The classes are set at a base rate of £5
   plans:
     - plan: Pay per session
-      price: "4.99"
+      price: "5"
       description: Some description can go here? If needed
       items:
         - Great for busy.. people
         - use a comma
         - to add new bullet points
-    - plan: "Weekly? "
-      price: "12.99"
-      description: weekly classes
+    - plan: Weekly
+      price: "10"
+      description: 3 classes for £10
       items:
         - more bullet points
-    - plan: "Monthly ? "
-      price: "29.99"
-      description: Access to all classes for the month save X amount
+    - plan: "Monthly "
+      price: "30"
+      description: Access to all classes for the month including recordimgs
       items:
         - some more bullet points if necessary
 ---
