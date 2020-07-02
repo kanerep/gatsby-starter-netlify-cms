@@ -14,7 +14,7 @@ intro:
     - image: /img/barre-fitness-group.jpeg
       text: "\n"
       testheading: Barre Fitness
-    - image: /img/barre-fitness.jpeg
+    - image: /img/slc-fitness-picture-4.jpg
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nunc
         massa, vestibulum vestibulum tempus eget, iaculis eu ipsum. Pellentesque
         nec mollis tellus. Nullam semper sapien ut justo "
