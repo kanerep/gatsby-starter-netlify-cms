@@ -5,7 +5,7 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 const FeatureGrid = ({ gridItems }) => (
   <div className="side-by-side-feature">
     {gridItems.map((item) => (
-      <div key={item.text} className="columns">
+      <div key={item.text} className="columns is-marginless is-relative">
           <div className="column is-6 has-text-centered">
             <div
               style={{
@@ -14,10 +14,11 @@ const FeatureGrid = ({ gridItems }) => (
                 display: 'inline-block',
               }}
             >
+              
               <PreviewCompatibleImage imageInfo={item} />
             </div>
           </div>
-          <div class="column is-6 m-auto">
+          <div className="column is-6 m-auto content-container">
             <h3>{item.testheading}</h3>
             <p>{item.text}</p>
           </div>

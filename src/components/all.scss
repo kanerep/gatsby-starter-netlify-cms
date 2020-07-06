@@ -1,7 +1,7 @@
 @import "~bulma/sass/utilities/initial-variables";
 
 // Config vars
-$turqoise: #48D1CC;
+$turqoise: #42b7a7;
 $turqoise-invert: #fff;
 
 $primary: $turqoise;
@@ -10,6 +10,17 @@ $body-color: #333;
 $black: #2b2523;
 
 @import "~bulma";
+
+.content h1,
+.content h2,
+.content h3,
+.content h4 {
+  color: $turqoise;
+}
+
+h3.subtitle {
+  color: #4a4a4a;
+}
 
 .navbar .navbar-menu {
   box-shadow:none !important;
@@ -231,7 +242,19 @@ footer.footer {
 // Side by side component 
 
 .side-by-side-feature {
+  padding: 1rem 0;
+
   :nth-child(odd) {
     flex-direction: row-reverse;
   }
+  
+  .content-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}
+
+.container {
+  max-width: 1152px;
 }
