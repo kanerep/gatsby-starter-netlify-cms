@@ -46,4 +46,10 @@ main:
   image3:
     alt: A xxxx class.
     image: /img/bums-tums-workout.jpeg
+testimonials:
+  - author: Oliver pick
+    quote: "This was the best barre fitness class I've ever had! "
+  - author: Rachel
+    quote: "This class was perfect for all abilities, I'm a beginner and had great
+      fun :) "
 ---

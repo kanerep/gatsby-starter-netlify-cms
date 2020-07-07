@@ -8,6 +8,7 @@ $primary: $turqoise;
 $primary-invert: $turqoise-invert;
 $body-color: #333;
 $black: #2b2523;
+$fullhd-enabled: false;
 
 @import "~bulma";
 
@@ -70,6 +71,7 @@ h3.subtitle {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-size: cover;
 }
 
 .btn {
@@ -135,7 +137,7 @@ h3.subtitle {
   color: #333;
 }
 .navbar-text-item:hover::after {
-  @include from ($tablet) {
+  @include from ($desktop) {
     opacity: 1;
     -webkit-transform: translateY(0);
     -moz-transform: translateY(0);
@@ -246,15 +248,126 @@ footer.footer {
 
   :nth-child(odd) {
     flex-direction: row-reverse;
+
+    .background-color {
+      background: $turqoise;
+    }
   }
-  
+
+  .background-color {
+    background-color: slategray;
+  }
+
   .content-container {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    height: 100%;
+    padding: 1rem;
+
+    @include from ($tablet) {
+      padding: 0 1rem;
+    }
+
+    @include from ($desktop) {
+      padding: 2.5rem 1.25rem;
+    }
+
+    > * {
+      color: white;
+    }
   }
 }
 
-.container {
-  max-width: 1152px;
+.button {
+  transform: perspective(1px) translateZ(0);
+  position: relative;
+  transition-duration: 100ms;
+
+  &.is-primary {
+    background-color: $turqoise;
+    color: white;
+    margin: 1rem 0;
+  }
+
+  &.is-secondary {
+    background-color: transparent;
+    position: relative;
+    color: white;
+    border-width: 1px;
+    border-color: white;
+    transition: ease-in-out all 300ms;
+    padding-right: 2em;
+
+    &:hover,
+    :focus,
+    :active {
+      .right-arrow {
+        transform: translateX(4px);
+      }
+    }
+  }
+
+  .right-arrow {
+    display: inline-block;
+    right: 1em;
+    position: absolute;
+    transform: translateZ(0);
+    transition-duration: 100ms;
+    transition-property: transform;
+  }
+}
+
+.hero-content-container {
+  display: flex;
+  height: 150px;
+  line-height: 1;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+
+  @include from ($tablet) {
+    align-items: flex-start;
+  }
+
+  @include until ($desktop) {
+    padding: 1.5rem;
+  }
+}
+
+.hero-content {
+  @include mobile {
+    padding: 1.5rem;
+  }
+}
+
+.is-paddingless {
+  padding: 0 !important;
+}
+
+.background-image-gatsby {
+  height: 400px;
+}
+
+// testimonials wrapper
+
+.testimonials-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+  .box {
+    width: 40%;
+    margin: 0 !important;
+    background: #f9f9f9;
+  }
+}
+
+.message-body {
+  border-color: $turqoise;
+  background: #f9f9f9;
+
+  .cite {
+    font-weight: bold;
+  }
 }

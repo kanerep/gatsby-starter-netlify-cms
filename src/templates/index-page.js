@@ -5,8 +5,9 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import Testimonials from '../components/Testimonials'
 
-export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch, description, intro }) => (
+export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch, description, intro, testimonials }) => (
     <div>
         <div
             className='full-width-image margin-top-0'
@@ -14,21 +15,12 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
                 backgroundImage: `linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(0, 128, 128, 0.63)), url(${!!image.childImageSharp
                     ? image.childImageSharp.fluid.src
                     : image})`,
-                backgroundPosition: `top left`,
+                backgroundPosition: `top 20% center !important`,
                 backgroundAttachment: `fixed`
             }}
         >
-            <div
-                style={{
-                    display: 'flex',
-                    height: '150px',
-                    lineHeight: '1',
-                    justifyContent: 'space-around',
-                    alignItems: 'left',
-                    flexDirection: 'column'
-                }}
-            >
-                <div className='container'>
+            <div className='hero-content-container container'>
+                <div class='hero-content'>
                     <h1
                         className='has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen'
                         style={{
@@ -39,7 +31,7 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
                     >
                         {title}
                     </h1>
-                    <h3
+                    <p
                         className='has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen'
                         style={{
                             color: 'white',
@@ -47,7 +39,10 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
                         }}
                     >
                         {subheading}
-                    </h3>
+                    </p>
+                    <Link className='button is-primary' to='/about'>
+                        Learn more
+                    </Link>
                 </div>
             </div>
         </div>
@@ -71,13 +66,13 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
                                 </div>
                             </div>
                             <Features gridItems={intro.blurbs} />
-                            <div className='columns'>
+                            {/* <div className='columns'>
                                 <div className='column is-12 has-text-centered'>
                                     <Link className='btn' to='/classes'>
                                         See all classes
                                     </Link>
                                 </div>
-                            </div>
+                            </div> */}
                             {/* The blog section has been commented out for now */}
                             {/* <div className='column is-12'>
 															<h3 className='has-text-weight-semibold is-size-2'>Latest stories</h3>
@@ -88,6 +83,11 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
 																</Link>
 															</div>
 														</div> */}
+                                                        <div className='section'>
+                                                            <h2 className='has-text-weight-semibold is-size-2 has-text-centered'>What some of our members say</h2>
+                                                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga, nam doloribus cumque beatae minima quibusdam ex libero unde magni tempore sunt blanditiis omnis soluta, iusto consequatur dolores adipisci nulla! Blanditiis.</p>
+                                                                <Testimonials testimonials={testimonials}/>
+                                                        </div>
                         </div>
                     </div>
                 </div>
@@ -105,7 +105,8 @@ IndexPageTemplate.propTypes = {
     description: PropTypes.string,
     intro: PropTypes.shape({
         blurbs: PropTypes.array
-    })
+    }),
+    testimonials: PropTypes.array
 }
 
 const IndexPage = ({ data }) => {
@@ -121,6 +122,7 @@ const IndexPage = ({ data }) => {
                 mainpitch={frontmatter.mainpitch}
                 description={frontmatter.description}
                 intro={frontmatter.intro}
+                testimonials={frontmatter.testimonials}
             />
         </Layout>
     )
@@ -169,6 +171,10 @@ export const pageQuery = graphql`
                     }
                     heading
                     description
+                }
+                testimonials { 
+                    author
+                    quote
                 }
             }
         }
