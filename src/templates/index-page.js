@@ -6,8 +6,18 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 import Testimonials from '../components/Testimonials'
+import Instagram from '../components/Instagram'
 
-export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch, description, intro, testimonials }) => (
+export const IndexPageTemplate = ({
+    image,
+    title,
+    heading,
+    subheading,
+    mainpitch,
+    description,
+    intro,
+    testimonials
+}) => (
     <div>
         <div
             className='full-width-image margin-top-0'
@@ -83,11 +93,18 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
 																</Link>
 															</div>
 														</div> */}
-                                                        <div className='section'>
-                                                            <h2 className='has-text-weight-semibold is-size-2 has-text-centered'>What some of our members say</h2>
-                                                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga, nam doloribus cumque beatae minima quibusdam ex libero unde magni tempore sunt blanditiis omnis soluta, iusto consequatur dolores adipisci nulla! Blanditiis.</p>
-                                                                <Testimonials testimonials={testimonials}/>
-                                                        </div>
+                            <div className='section'>
+                                <h2 className='has-text-weight-semibold is-size-2 has-text-centered'>
+                                    What some of our members say
+                                </h2>
+                                <p>
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga, nam doloribus cumque
+                                    beatae minima quibusdam ex libero unde magni tempore sunt blanditiis omnis soluta,
+                                    iusto consequatur dolores adipisci nulla! Blanditiis.
+                                </p>
+                                <Testimonials testimonials={testimonials} />
+                            </div>
+                            <Instagram />
                         </div>
                     </div>
                 </div>
@@ -172,7 +189,7 @@ export const pageQuery = graphql`
                     heading
                     description
                 }
-                testimonials { 
+                testimonials {
                     author
                     quote
                 }

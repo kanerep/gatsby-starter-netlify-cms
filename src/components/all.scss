@@ -9,6 +9,7 @@ $primary-invert: $turqoise-invert;
 $body-color: #333;
 $black: #2b2523;
 $fullhd-enabled: false;
+$lg-mobile: 600px;
 
 @import "~bulma";
 
@@ -189,7 +190,8 @@ footer.footer {
   }
 }
 
-.social {
+.social,
+.column.contact {
   padding: 2em;
 }
 
@@ -353,13 +355,22 @@ footer.footer {
 
 .testimonials-wrapper {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-evenly;
 
+  @include from ($lg-mobile) {
+    flex-direction: row;
+  }
+
   .box {
-    width: 40%;
-    margin: 0 !important;
+    width: 100%;
+    margin-bottom: 1rem;
     background: #f9f9f9;
+
+    @include from ($lg-mobile) {
+      width: 40%;
+      margin: 0;
+    }
   }
 }
 
@@ -369,5 +380,57 @@ footer.footer {
 
   .cite {
     font-weight: bold;
+  }
+}
+
+.contact-list {
+  list-style: none;
+}
+
+// overwrite bulma 
+
+.content .contact ul {
+  list-style: none;
+  margin: 0;
+}
+
+.instagram-feed {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+  a {
+    display: flex;
+    position: relative;
+    padding: .25rem;
+    height: 100%;
+
+    &:hover {
+      .overlay {
+        opacity: 1;
+      }
+    }
+  }
+
+  .overlay {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    background: rgba(66, 183, 167, .8);
+    margin: .25rem;
+    padding: .75rem;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    font-size: 12px;
+    overflow: hidden;
+    opacity: 0;
+    transition: all ease-in-out 250ms;
+    
+    span {
+      height: auto;
+      overflow: hidden;
+      color: $white;
+    }
   }
 }

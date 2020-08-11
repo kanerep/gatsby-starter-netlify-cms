@@ -69,7 +69,23 @@ const Footer = class extends React.Component {
                                     </ul>
                                 </section>
                             </div> */}
-                            <div className='column is-4 social'>
+                            <div className='column is-half contact'>
+                                <h5>Get in touch</h5>
+                                <ul className='contact-list'>
+                                    <li>
+                                        <span>
+                                            <i class='fas fa-phone-alt' />
+                                        </span>0792847572
+                                    </li>
+                                    <li>
+                                        <span>
+                                            <i class='fas fa-envelope' />
+                                        </span>sam@slcfitness.com
+                                    </li>
+                                </ul>
+                            </div>
+                            <div className='column is-half social'>
+                                <h5>Stay connected</h5>
                                 <a title='facebook' href='https://facebook.com/SLCFitness'>
                                     <img src={facebook} alt='Facebook' style={{ width: '1em', height: '1em' }} />
                                 </a>
