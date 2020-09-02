@@ -1,7 +1,7 @@
 @import "~bulma/sass/utilities/initial-variables";
 
 // Config vars
-$turqoise: #42b7a7;
+$turqoise: #2deddd;
 $turqoise-invert: #fff;
 
 $primary: $turqoise;
@@ -247,6 +247,15 @@ footer.footer {
 
 .side-by-side-feature {
   padding: 1rem 0;
+
+  .columns {
+    box-shadow: 0 0.5em 1em -0.125em rgba(43, 37, 35, 0.1), 0 0px 0 1px rgba(43, 37, 35, 0.02);
+    &:not(:last-child) {
+      @include mobile {
+        margin-bottom: 2rem!important;
+      }
+    }
+  }
 
   :nth-child(odd) {
     flex-direction: row-reverse;

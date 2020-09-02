@@ -62,8 +62,8 @@ const Navbar = class extends React.Component {
                                 <span className='navbar-text-item'>Postnatal</span>
                             </Link>
                             {/* <Link className='navbar-item has-text-weight-semibold' to='/blog'>
-                  <span className='navbar-text-item'>Blog</span>
-                </Link> */}
+                              <span className='navbar-text-item'>Blog</§span>
+                            </Link> */}
                             <Link className='navbar-item has-text-weight-semibold' to='/contact'>
                                 <span className='navbar-text-item'>Contact</span>
                             </Link>
