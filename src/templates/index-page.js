@@ -70,7 +70,7 @@ export const IndexPageTemplate = ({
                                 </div>
                             </div>
                             <div className='columns'>
-                                <div className='column is-12'>
+                                <div className='column is-12 has-text-centered'>
                                     <h3 className='has-text-weight-semibold is-size-2'>{heading}</h3>
                                     <p>{description}</p>
                                 </div>
@@ -97,7 +97,7 @@ export const IndexPageTemplate = ({
                                 <h2 className='has-text-weight-semibold is-size-2 has-text-centered'>
                                     What some of our members say
                                 </h2>
-                                <p>
+                                <p className='has-text-centered'>
                                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga, nam doloribus cumque
                                     beatae minima quibusdam ex libero unde magni tempore sunt blanditiis omnis soluta,
                                     iusto consequatur dolores adipisci nulla! Blanditiis.

@@ -24,8 +24,11 @@ h3.subtitle {
   color: #4a4a4a;
 }
 
-.navbar .navbar-menu {
-  box-shadow:none !important;
+.navbar {
+  box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
+  .navbar-menu {
+    box-shadow:none !important;
+  }
 }
 
 .nav-heading {
@@ -99,6 +102,10 @@ h3.subtitle {
 
 .m-auto {
   margin: auto;
+}
+
+.mb-2 {
+  margin-bottom: 2rem;
 }
 
 .navbar-item .icon {
@@ -442,4 +449,9 @@ footer.footer {
       color: $white;
     }
   }
+}
+
+.contact-form-wrapper {
+  max-width: 660px;
+  margin: 0 auto;
 }
