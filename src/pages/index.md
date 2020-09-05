@@ -1,20 +1,19 @@
 ---
 templateKey: index-page
-title: fitness title here
-image: /img/barre-fitness-group.jpeg
+title: changing the title
+image: /img/slc-fitness-picture-14.jpg
 heading: Online classes with .....
 subheading: subheading here........................
 mainpitch:
   title: SLC Fitness
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-    interdum pretium nunc, eu semper sapien cursus vitae. Donec lacus metus,
-    feugiat at ligula sed, euismod blandit libero. Phasellus nibh quam, tempus
-    consectetur venenatis a.
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-  interdum pretium nunc, eu semper sapien cursus vitae. Donec lacus metus,
-  feugiat at ligula sed, euismod blandit libero. Phasellus nibh quam, tempus
-  consectetur venenatis a, faucibus rhoncus lectus. Aliquam aliquam risus et
-  pulvinar pulvinar. Donec hendrerit ante eu ultricies bibendum.
+  description: "Classes designed with you at the core. I believe everyone should
+    feel comfortable and included at SLC FITNESS, which is why we offer
+    variations within each class to suit your ability. our aim is to not only
+    see our clients achieving results but wanting to come back again and
+    again.  "
+description: "Offering a range of classes including:  Barre Fitness Legs Bums &
+  Tums Fat Burning Booty Burn Beginners Adult Dance Postnatal Mum and Baby
+  Specialised."
 intro:
   blurbs:
     - image: /img/image4-2-.jpeg

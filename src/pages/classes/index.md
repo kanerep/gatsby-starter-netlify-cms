@@ -3,27 +3,21 @@ heading: A wide selection of fun fitness classes
 path: /classes
 templateKey: classes-page
 title: Our Classes
-image: /img/barre-fitness-group.jpeg
+image: /img/image4-2-.jpeg
 description: SLC Fitness Lorem ipsum dolor sit amet, consectetur adipiscing
-  elit. Morbi nunc massa, vestibulum vestibulum tempus eget, iaculis eu ipsum.
+  elit. Morbi nunc massa, vestibulum vestibulummpus eget, iaculis eu ipsum.
   Pellentesque nec mollis tellus. Nullam semper sapien ut justo volutpat
   fringilla ac sed neque. Sed eleifend rhoncus semper. Donec vehicula pretium
   vulputate.
 intro:
   blurbs:
+    - image: /img/barre-fitness-group.jpeg
+      text: "\n"
+      testheading: Barre Fitness
     - image: /img/barre-fitness.jpeg
-      text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nunc
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nunc
         massa, vestibulum vestibulum tempus eget, iaculis eu ipsum. Pellentesque
-        nec mollis tellus. Nullam semper sapien ut justo volutpat fringilla ac
-        sed neque. Sed eleifend rhoncus semper. Donec vehicula pretium
-        vulputate.
-      testheading: Class Example One
-    - image: /img/barre-fitness.jpeg
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nunc massa,
-        vestibulum vestibulum tempus eget, iaculis eu ipsum. Pellentesque nec
-        mollis tellus. Nullam semper sapien ut justo volutpat fringilla ac sed
-        neque. Sed eleifend rhoncus semper. Donec vehicula pretium vulputate.
+        nec mollis tellus. Nullam semper sapien ut justo "
       testheading: Class Example Two
     - image: /img/barre-fitness.jpeg
       text: >
@@ -34,7 +28,7 @@ intro:
         vulputate.
       testheading: Class Example Three
   heading: This may be removed for now
-  description: "This may be removed for now "
+  description: This may be remov
 main:
   heading: More text can go here if required...
   description: >
@@ -43,7 +37,7 @@ main:
     tellus. Nullam semper sapien ut justo volutpat fringilla ac sed neque. Sed
     eleifend rhoncus semper. Donec vehicula pretium vulputate.
   image1:
-    alt: A group doing barre fitness
+    alt: A group doing barre fitnes
     image: /img/barre-fitness-group.jpeg
   image2:
     alt: Mum and baby doing work out
@@ -60,23 +54,25 @@ testimonials:
 full_image: /img/barre-fitness.jpeg
 pricing:
   heading: How much do the classes cost?
-  description: The classes are set at a base rate of £4.99.
+  description: The classes are set at a base rate of £5
   plans:
     - plan: Pay per session
-      price: "4.99"
-      description: Some description can go here? If needed
+      price: "5"
+      description: Pay as you Go!
       items:
-        - Great for busy.. people
-        - use a comma
-        - to add new bullet points
-    - plan: "Weekly? "
-      price: "12.99"
-      description: weekly classes
+        - Great for busy people
+        - No commitment
+        - Cheap and affordable
+    - plan: Weekly
+      price: "12"
+      description: 3 classes for £12
       items:
-        - more bullet points
-    - plan: "Monthly ? "
-      price: "29.99"
-      description: Access to all classes for the month save X amount
+        - Suitable if you feel extra active that week
+        - 3 classes must be used within the same week
+    - plan: "Monthly "
+      price: "30"
+      description: Access to all classes for the month including recordimgs
       items:
-        - some more bullet points if necessary
+        - Affordable plan to keep yoou motivated
+        - Access to all SLC Fitness content and classes
 ---
