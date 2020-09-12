@@ -158,8 +158,19 @@ h3.subtitle {
   height: 1.5rem;
   fill: currentColor;
 }
-.navbar-brand .navbar-item.logo {
-  padding: 0 1rem;
+.navbar-brand .navbar-item {
+  &.logo-wrap {
+    padding: 0;
+  }
+
+  .logo {
+    padding: 0 .75rem;
+    max-height: 3.5rem;
+
+    @include from ($desktop) {
+      max-height: 4rem;
+    }
+  }
 }
 
 footer.footer {

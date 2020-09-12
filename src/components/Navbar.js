@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-// import logo from '../img/slc-logo.jpeg'
+import logo from '../img/logo-slc-t.png'
 
 const Navbar = class extends React.Component {
     constructor (props) {
@@ -36,8 +36,9 @@ const Navbar = class extends React.Component {
             <nav className='navbar is-transparent is-fixed-top' role='navigation' aria-label='main-navigation'>
                 <div className='container'>
                     <div className='navbar-brand'>
-                        <Link to='/' className='navbar-item' title='Logo'>
-                            <h1 className='nav-heading has-text-weight-bold'>SLC Fitness</h1>
+                        <Link to='/' className='navbar-item logo-wrap' title='Logo'>
+                            <img className='logo' src={logo}/>
+                            {/* <h1 className='nav-heading has-text-weight-bold'>SLC Fitness</h1> */}
                         </Link>
                         <div
                             className={`navbar-burger burger ${this.state.navBarActiveClass}`}
