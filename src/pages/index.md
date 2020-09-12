@@ -2,7 +2,7 @@
 templateKey: index-page
 title: changing the title
 image: /img/slc-fitness-picture-14.jpg
-heading: Online classes with .....
+heading: Classes Info
 subheading: subheading here........................
 mainpitch:
   title: SLC Fitness
