@@ -11,6 +11,7 @@ mainpitch:
     variations within each class to suit your ability. our aim is to not only
     see our clients achieving results but wanting to come back again and
     again.  "
+  timetableImage: /img/timetable.jpg
 description: "Offering a range of classes including:  Barre Fitness Legs Bums &
   Tums Fat Burning Booty Burn Beginners Adult Dance Postnatal Mum and Baby
   Specialised."
