@@ -53,19 +53,22 @@ const Navbar = class extends React.Component {
 
                     <div id='navMenu' className={`navbar-menu ${this.state.navBarActiveClass}`}>
                         <div className='navbar-end has-text-centered'>
-                            <Link className='navbar-item has-text-weight-semibold' to='/about'>
+                            <Link className='navbar-item has-text-weight-semibold' activeClassName="active" to='/'>
+                                <span className='navbar-text-item'>Home</span>
+                            </Link>
+                            <Link className='navbar-item has-text-weight-semibold' activeClassName="active" to='/about'>
                                 <span className='navbar-text-item'>About</span>
                             </Link>
-                            <Link className='navbar-item has-text-weight-semibold' to='/classes'>
+                            <Link className='navbar-item has-text-weight-semibold' activeClassName="active" to='/classes'>
                                 <span className='navbar-text-item'>Classes</span>
                             </Link>
-                            <Link className='navbar-item has-text-weight-semibold' to='/postnatal'>
+                            <Link className='navbar-item has-text-weight-semibold' activeClassName="active" to='/postnatal'>
                                 <span className='navbar-text-item'>Postnatal</span>
                             </Link>
                             {/* <Link className='navbar-item has-text-weight-semibold' to='/blog'>
                               <span className='navbar-text-item'>Blog</§span>
                             </Link> */}
-                            <Link className='navbar-item has-text-weight-semibold' to='/contact'>
+                            <Link className='navbar-item has-text-weight-semibold' activeClassName="active" to='/contact'>
                                 <span className='navbar-text-item'>Contact</span>
                             </Link>
                         </div>

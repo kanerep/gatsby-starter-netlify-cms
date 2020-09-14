@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import QualLogo from '../img/hfe.jpg'
 
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
@@ -17,6 +18,9 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                 {title}
               </h2>
               <PageContent className="content" content={content} />
+              <div class='qualifications-wrapper has-text-centered'>
+                <img src={QualLogo} />
+              </div>
             </div>
           </div>
         </div>

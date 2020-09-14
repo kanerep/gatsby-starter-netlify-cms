@@ -158,6 +158,14 @@ h3.subtitle {
   height: 1.5rem;
   fill: currentColor;
 }
+
+.navbar-item.active {
+  .navbar-text-item:after {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 .navbar-brand .navbar-item {
   &.logo-wrap {
     padding: 0;
@@ -465,4 +473,14 @@ footer.footer {
 .contact-form-wrapper {
   max-width: 660px;
   margin: 0 auto;
+}
+
+.qualifications-wrapper {
+  img {
+    max-width: 10rem;
+  }
+}
+
+.image-container {
+  padding: 3rem;
 }

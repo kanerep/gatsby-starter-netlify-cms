@@ -66,10 +66,7 @@ export const IndexPageTemplate = ({
                                 <div>
                                     <h3 className='subtitle'>{mainpitch.description}</h3>
                                 </div>
-                                {mainpitch.image ?
-                                <div className='image-container'>
-                                    <img src={mainpitch.image} alt='SLC Fitness Timetable' />
-                                </div> : null}
+                                
                             </div>
                             <div className='columns'>
                                 <div className='column is-12 has-text-centered'>
@@ -108,6 +105,10 @@ export const IndexPageTemplate = ({
                             </div>
                             <gymcatch-embedded key='4608f1f6-614a-4c24-8b01-bc86a1d67314' />
                             <Instagram />
+                            {mainpitch.timetableImage ?
+                            <div className='image-container has-text-centered'>
+                                <img src={mainpitch.timetableImage.childImageSharp.fluid.src} alt='SLC Fitness Timetable' />
+                            </div> : null}
                         </div>
                     </div>
                 </div>
@@ -177,7 +178,7 @@ export const pageQuery = graphql`
                     description
                     timetableImage {
                         childImageSharp{
-                            fluid(maxWidth: 600, quality: 100) {
+                            fluid(maxWidth: 400, quality: 100) {
                                 ...GatsbyImageSharpFluid
                             }
                         }
