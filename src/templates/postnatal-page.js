@@ -20,11 +20,13 @@ export const PostnatalPageTemplate = ({
 }) => (
     <div>
         <div
-            className='full-width-image-container margin-top-0'
+            className='full-width-image margin-top-0'
             style={{
                 backgroundImage: `linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(0, 128, 128, 0.63)), url(${!!image.childImageSharp
                     ? image.childImageSharp.fluid.src
-                    : image})`
+                    : image})`,
+                backgroundPosition: `top 20% center !important`,
+                backgroundAttachment: `fixed`
             }}
         >
             <h2
@@ -48,7 +50,7 @@ export const PostnatalPageTemplate = ({
                             <p className='has-text-centered'>{description}</p>
                         </div>
                         <div>
-                            <Features gridItems={intro.blurbs} />
+                            <Features gridItems={intro.blurbs} book={true}/>
                             <h3 className='has-text-weight-semibold has-text-centered is-size-2'>{main.heading}</h3>
                             <p className='has-text-centered'>{main.description}</p>
                         </div>

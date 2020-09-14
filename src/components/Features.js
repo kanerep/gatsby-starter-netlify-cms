@@ -4,7 +4,7 @@ import BackgroundImage from 'gatsby-background-image'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import { Link } from 'gatsby'
 
-const FeatureGrid = ({ gridItems }) => (
+const FeatureGrid = ({ gridItems, book, colours }) => (
   <div className="side-by-side-feature">
     {gridItems.map((item) => (
       <div key={item.text} className="columns is-marginless is-relative">
@@ -12,12 +12,15 @@ const FeatureGrid = ({ gridItems }) => (
               <PreviewCompatibleImage imageInfo={item} />
           </div>
 
-          <div className="column is-6 background-color">
-            <div class='content-container'>
+          <div className={`column is-6 background-color ${colours}-custom`}>
+            <div className='content-container'>
               <h3>{item.testheading}</h3>
               <p>{item.text}</p>
               <div className='button-container'>
-                <Link className='button is-secondary' to='/classes'><span>Explore<span className='right-arrow'>&nbsp;&rarr;</span></span></Link>
+                {book ? 
+                    <a className='button is-secondary' href='https://app.gymcatch.com/provider/2313/events' target='_blank'><span>Book Now<span className='right-arrow'>&nbsp;&rarr;</span></span></a> :
+                    <Link className='button is-secondary' to='/classes'><span>Explore<span className='right-arrow'>&nbsp;&rarr;</span></span></Link>
+                }
               </div>
             </div>
           </div>

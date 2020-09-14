@@ -24,7 +24,9 @@ export const ClassesPageTemplate = ({
             style={{
                 backgroundImage: `linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(0, 128, 128, 0.63)), url(${!!image.childImageSharp
                     ? image.childImageSharp.fluid.src
-                    : image})`
+                    : image})`,
+                backgroundPosition: `top 20% center !important`,
+                backgroundAttachment: `fixed`
             }}
         >
             <h2

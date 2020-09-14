@@ -50,9 +50,7 @@ export const IndexPageTemplate = ({
                     >
                         {subheading}
                     </p>
-                    <Link className='button is-primary' to='/about'>
-                        Learn more
-                    </Link>
+                    <a className='button is-primary' href='https://app.gymcatch.com/provider/2313/events' target='_blank'><span>Book Now<span className='right-arrow'>&nbsp;&rarr;</span></span></a> :
                 </div>
             </div>
         </div>
@@ -62,12 +60,16 @@ export const IndexPageTemplate = ({
                     <div className='column is-10 is-offset-1'>
                         <div className='content'>
                             <div className='content'>
-                                <div className='tile'>
+                                <div className='has-text-centered'>
                                     <h1 className='title'>{mainpitch.title}</h1>
                                 </div>
-                                <div className='tile'>
+                                <div>
                                     <h3 className='subtitle'>{mainpitch.description}</h3>
                                 </div>
+                                {mainpitch.image ?
+                                <div className='image-container'>
+                                    <img src={mainpitch.image} alt='SLC Fitness Timetable' />
+                                </div> : null}
                             </div>
                             <div className='columns'>
                                 <div className='column is-12 has-text-centered'>
@@ -75,7 +77,7 @@ export const IndexPageTemplate = ({
                                     <p>{description}</p>
                                 </div>
                             </div>
-                            <Features gridItems={intro.blurbs} />
+                            <Features gridItems={intro.blurbs} book={false} />
                             {/* <div className='columns'>
                                 <div className='column is-12 has-text-centered'>
                                     <Link className='btn' to='/classes'>
@@ -173,6 +175,13 @@ export const pageQuery = graphql`
                 mainpitch {
                     title
                     description
+                    timetableImage {
+                        childImageSharp{
+                            fluid(maxWidth: 600, quality: 100) {
+                                ...GatsbyImageSharpFluid
+                            }
+                        }
+                    }
                 }
                 description
                 intro {
