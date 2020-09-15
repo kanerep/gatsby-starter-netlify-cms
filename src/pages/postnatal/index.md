@@ -3,7 +3,7 @@ heading: A wide selection of fun fitness classes
 path: /postnatal
 templateKey: postnatal-page
 title: Our Classes
-image: /img/barre-fitness-group.jpeg
+image: /img/slc-fitness-picture-9.jpg
 description: SLC Fitness Lorem ipsum dolor sit amet, consectetur adipiscing
   elit. Morbi nunc massa, vestibulum vestibulum tempus eget, iaculis eu ipsum.
   Pellentesque nec mollis tellus. Nullam semper sapien ut justo volutpat
@@ -11,7 +11,7 @@ description: SLC Fitness Lorem ipsum dolor sit amet, consectetur adipiscing
   vulputate.
 intro:
   blurbs:
-    - image: /img/barre-fitness.jpeg
+    - image: /img/image2.jpeg
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nunc
         massa, vestibulum vestibulum tempus eget, iaculis eu ipsum. Pellentesque
@@ -19,7 +19,7 @@ intro:
         sed neque. Sed eleifend rhoncus semper. Donec vehicula pretium
         vulputate.
       testheading: Class Example One
-    - image: /img/barre-fitness.jpeg
+    - image: /img/image4-1-.jpeg
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nunc massa,
         vestibulum vestibulum tempus eget, iaculis eu ipsum. Pellentesque nec
         mollis tellus. Nullam semper sapien ut justo volutpat fringilla ac sed
@@ -60,22 +60,17 @@ testimonials:
 full_image: /img/barre-fitness.jpeg
 pricing:
   heading: How much do the classes cost?
-  description: The classes are set at a base rate of £4.99.
+  description: The classes are set at a base rate of £5
   plans:
     - plan: Pay per session
-      price: "4.99"
+      price: "5"
       description: Some description can go here? If needed
       items:
         - Great for busy.. people
         - use a comma
         - to add new bullet points
-    - plan: "Weekly? "
-      price: "12.99"
-      description: weekly classes
-      items:
-        - more bullet points
-    - plan: "Monthly ? "
-      price: "29.99"
+    - plan: 1-1
+      price: "20 "
       description: Access to all classes for the month save X amount
       items:
         - some more bullet points if necessary
