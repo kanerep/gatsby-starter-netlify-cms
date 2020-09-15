@@ -325,6 +325,19 @@ footer.footer {
     background-color: $turqoise;
     color: white;
     margin: 1rem 0;
+
+    &.is-cta {
+      transition: ease-in-out all 300ms;
+      padding-right: 2em;
+      
+      &:hover,
+      :focus,
+      :active {
+        .right-arrow {
+          transform: translateX(4px);
+        }
+      }
+    }
   }
 
   &.is-secondary {

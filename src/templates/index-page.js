@@ -50,7 +50,7 @@ export const IndexPageTemplate = ({
                     >
                         {subheading}
                     </p>
-                    <a className='button is-primary' href='https://app.gymcatch.com/provider/2313/events' target='_blank'><span>Book Now<span className='right-arrow'>&nbsp;&rarr;</span></span></a> :
+                    <a className='button is-primary is-cta' href='https://app.gymcatch.com/provider/2313/events' target='_blank'><span>Book Now<span className='right-arrow'>&nbsp;&rarr;</span></span></a> :
                 </div>
             </div>
         </div>
