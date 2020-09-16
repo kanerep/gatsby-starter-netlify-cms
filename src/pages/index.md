@@ -20,18 +20,15 @@ intro:
     - image: /img/image4-2-.jpeg
       testheading: Testing blurb heading 1
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Legs Bums and Tums, Fat burning, Barre Fitness, Tone it up and Booty
+        burn a wide variety of classes. You will be sure to find a class that
+        suits you! 
     - image: /img/image2.jpeg
       testheading: fffff
-      text: No excuses! We even have classes you can enjoy with your baby. There
-        hasn't been a better time to start than now. Lorem ipsum a few times,
-        and it will all be fine. We’re proud to offer a variety of coffee beans
-        grown with great care for the environment and local communities. Check
-        our post or contact us directly for current availability.
+      text: "Mum and baby Fitness classes. Exercise classes designed for mum's where
+        you can bring your baby along. Strengthen and build stamina in these
+        classes designed to build strong mum's. Delivered by a postnatal
+        exercise specialist. "
   heading: This may be removed for now
   description: This may also be removed for now
 main:
