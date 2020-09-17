@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: changing the title
+title: SLC Fitness
 image: /img/slc-fitness-picture-14.jpg
 heading: Classes Info
-subheading: subheading here........................
+subheading: "Book classes below "
 mainpitch:
   title: SLC Fitness
   description: "Classes designed with you at the core. I believe everyone should
