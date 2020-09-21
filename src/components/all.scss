@@ -224,7 +224,7 @@ footer.footer {
 .social a {
     padding: .5em .5em .3em .5em;
     border-radius: 1em;
-    background-color: $white-ter;
+    background-color: $primary;
     margin: .5em;
     width: 1em;
     height: 1em;
@@ -496,4 +496,8 @@ footer.footer {
 
 .image-container {
   padding: 3rem;
+}
+
+.copyright-wrapper {
+  padding: 2rem 0 1rem 0;
 }
