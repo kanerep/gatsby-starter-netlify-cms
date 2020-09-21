@@ -50,7 +50,7 @@ export const ClassesPageTemplate = ({
                             <p className='has-text-centered'>{description}</p>
                         </div>
                         <div>
-                            <Features gridItems={intro.blurbs} />
+                            <Features gridItems={intro.blurbs} colours />
                             <h3 className='has-text-weight-semibold has-text-centered is-size-2'>{main.heading}</h3>
                             <p className='has-text-centered'>{main.description}</p>
                         </div>

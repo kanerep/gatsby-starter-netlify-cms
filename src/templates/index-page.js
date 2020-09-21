@@ -103,7 +103,6 @@ export const IndexPageTemplate = ({
                                 </p>
                                 <Testimonials testimonials={testimonials} />
                             </div>
-                            <gymcatch-embedded key='4608f1f6-614a-4c24-8b01-bc86a1d67314' />
                             <Instagram />
                             {mainpitch.timetableImage ?
                             <div className='image-container has-text-centered'>

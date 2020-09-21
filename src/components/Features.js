@@ -12,7 +12,7 @@ const FeatureGrid = ({ gridItems, book, colours }) => (
               <PreviewCompatibleImage imageInfo={item} />
           </div>
 
-          <div className={`column is-6 background-color ${colours}-custom`}>
+          <div className={`column is-6 background-color ${colours ? 'alt-colours' : ''}`}>
             <div className='content-container'>
               <h3>{item.testheading}</h3>
               <p>{item.text}</p>

@@ -161,8 +161,10 @@ h3.subtitle {
 
 .navbar-item.active {
   .navbar-text-item:after {
-    opacity: 1;
-    transform: translateY(0);
+    @include from ($desktop) {
+      opacity: 1;
+      transform: translateY(0);
+    }
   }
 }
 
@@ -172,11 +174,11 @@ h3.subtitle {
   }
 
   .logo {
-    padding: 0 .75rem;
+    padding: .5rem .75rem;
     max-height: 3.5rem;
 
     @include from ($desktop) {
-      max-height: 4rem;
+      max-height: 5rem;
     }
   }
 }
@@ -288,11 +290,19 @@ footer.footer {
 
     .background-color {
       background: $turqoise;
+
+      &.alt-colours {
+        background: #4b4848;
+      }
     }
   }
 
   .background-color {
     background-color: slategray;
+
+    &.alt-colours {
+      background-color: #17ead9;
+    }
   }
 
   .content-container {
@@ -500,4 +510,8 @@ footer.footer {
 
 .copyright-wrapper {
   padding: 2rem 0 1rem 0;
+}
+
+.navbar-burger {
+  height: auto;
 }
