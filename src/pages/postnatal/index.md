@@ -1,5 +1,5 @@
 ---
-heading: Fitness classes designed to build strong mum's
+heading: Fitness classes designed to build strong mum's!
 path: /postnatal
 templateKey: postnatal-page
 title: Mum and Baby Fitness Classes
@@ -64,7 +64,7 @@ pricing:
       items:
         - Great for busy people
         - No commitment with block bookings
-    - plan: 1-1
+    - plan: 1-1 Home person training
       price: "20 "
       description: £20 for a 1 hour home personal training session.
       items:
