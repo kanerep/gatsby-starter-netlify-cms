@@ -27,49 +27,46 @@ intro:
         comfort of your own homes. I bring all the equipment to you so again
         there is no need to find childcare or even leave the house! "
       testheading: "1-1 Home personal training sessions "
-    - image: /img/barre-fitness.jpeg
-      text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nunc
-        massa, vestibulum vestibulum tempus eget, iaculis eu ipsum. Pellentesque
-        nec mollis tellus. Nullam semper sapien ut justo volutpat fringilla ac
-        sed neque. Sed eleifend rhoncus semper. Donec vehicula pretium
-        vulputate.
-      testheading: Class Example Three
   heading: This may be removed for now
   description: "This may be removed for now "
 main:
-  heading: Read what some of my lovely postnatal clients had to say...
-  description: "\n"
+  heading: Client Reviews...
+  description: |
+    read what some of our lovely mums had to say. 
   image1:
     alt: A group doing barre fitness
-    image: /img/barre-fitness-group.jpeg
+    image: /img/image2.jpeg
   image2:
     alt: Mum and baby doing work out
     image: /img/image4-1-.jpeg
   image3:
     alt: Legs, bums and tums class
-    image: /img/bums-tums-workout.jpeg
+    image: /img/slc-fitness-picture-12.jpg
 testimonials:
-  - author: Oliver pick
-    quote: "This was the best barre fitness class I've ever had! "
-  - author: Rachel
-    quote: "This class was perfect for all abilities, I'm a beginner and had great
-      fun :) "
-full_image: /img/barre-fitness.jpeg
+  - author: "Chloe Stevenson "
+    quote: "I've never stuck to workout classes or kept to regular exercise, but I
+      love your classes! I've seen such good results, I thought I was never
+      going to be able to wear anything tight again until I started your
+      classes. "
+  - author: "Emma Robinson "
+    quote: "I am really enjoying the 1-1 sessions! I Ache so much after the sessions
+      but I'm already starting to feel stronger. "
+full_image: /img/thumbnail_image2.jpg
 pricing:
   heading: How much do the classes cost?
   description: The classes are set at a base rate of £5
   plans:
     - plan: Pay per session
       price: "5"
-      description: Some description can go here? If needed
+      description: "Pay as you go "
       items:
-        - Great for busy.. people
-        - use a comma
-        - to add new bullet points
+        - Great for busy people
+        - No commitment with block bookings
     - plan: 1-1
       price: "20 "
-      description: Access to all classes for the month save X amount
+      description: £20 for a 1 hour home personal training session.
       items:
-        - some more bullet points if necessary
+        - Workout individualized to you
+        - Personal Training session in the comfort of your own home
+        - I bring all the equipment to you
 ---
