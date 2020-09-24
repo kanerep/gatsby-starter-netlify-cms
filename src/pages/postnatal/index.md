@@ -64,7 +64,7 @@ pricing:
       items:
         - Great for busy people
         - No commitment with block bookings
-    - plan: 1-1 Home person training
+    - plan: 1-1 Home personal training
       price: "20 "
       description: £20 for a 1 hour home personal training session.
       items:
