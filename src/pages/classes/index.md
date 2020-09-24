@@ -11,23 +11,28 @@ description: "Whether it be Fat burning, Barre Fitness, Legs bums and tums,
 intro:
   blurbs:
     - image: /img/barre-fitness-group.jpeg
-      text: A 45 minute workout using the basic techniques and positions in ballet to
+      text: "A 45 minute workout using the basic techniques and positions in ballet to
         tone, strengthen and lengthen your body. Using the ballet Barre this
-        class will help with posture, core strength, flexibility and much more
+        class will help with posture, core strength, flexibility and much more.
+        These classes are ran on Monday evenings 19:00-19:45 at COPAH Studios,
+        Hinckley. "
       testheading: Barre Fitness
     - image: /img/slc-fitness-picture-4.jpg
       text: "A  workout designed to sculpt and target your Legs, Bums and Tums. An
-        easy to follow enjoyable workout designed for all abilities "
+        easy to follow enjoyable workout designed for all abilities. These
+        classes are ran on Wednesday evenings 18:30-19:15 at the ROBJOHN Hall,
+        Narborough. "
       testheading: "Legs, Bums and Tums "
     - image: /img/barre-fitness.jpeg
       text: >-
         
-        A full body workout using weights. A class designed to torch calories and sculpt and tone the body. Suitable for all fitness levels. Options to use lighter or heavier weights.
+        A full body workout using weights. A class designed to torch calories and sculpt and tone the body. Suitable for all fitness levels. Options to use lighter or heavier weights. These classes are ran on Thursday evenings 18:45-19:30 at The Blaby and Whetstone Boys club, Whetstone.
       testheading: "Tone it Up "
     - testheading: "Fat Burning "
       text: "30 minute body weight workout designed to burn fat and torch calories.
         Easy, intermediate and hard levels for each exercise so suitable for all
-        fitness abilities. A class guaranteed to make you sweat. "
+        fitness abilities. A class guaranteed to make you sweat. These classes
+        are ran Tuesday evenings 18:15-18:45 at The ROBJOHN Hall, Narborough. "
       image: /img/slc-fitness-picture-6.jpg
   heading: This may be removed for now
   description: This may be remov
@@ -51,7 +56,7 @@ testimonials:
     quote: "The best fitness classes around! I absolutely love the variety, every
       class is different. Sam is so fab, friendly and hilarious to work out with
       "
-full_image: /img/barre-fitness.jpeg
+full_image: /img/slc-fitness-picture-4.jpg
 pricing:
   heading: How much do the classes cost?
   description: The classes are set at a base rate of £5
