@@ -36,10 +36,11 @@ intro:
       image: /img/slc-fitness-picture-6.jpg
     - image: /img/slc-fitness-booty-burn-.jpg
       testheading: "Booty Burn "
-      text: "A 45 minute class using resistance bands to focus on the Glutes and
-        building strong legs. Guaranteed to get your heart rate on and feeling
-        that burn! These classes are ran online via Zoom every Saturday morning
-        10-10:45am. "
+      text: "A 45 minute class using resistance bands to focus on activating the
+        glutes and building strong legs. Guaranteed to get your heart rate up
+        and feeling that burn! These classes are ran online via Zoom every
+        Saturday morning 10-10:45am. Enjoy and sweat from the comfort of your
+        own home! All you need is a phone, iPad, laptop or computer. "
   heading: This may be removed for now
   description: This may be remov
 main:
