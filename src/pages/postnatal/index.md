@@ -19,7 +19,9 @@ intro:
         A 45 minute class designed to strengthen and build stamina. The sessions
         are different each week switching from a circuit training style class
         with weights to a lead aerobics style class using resistance bands and
-        bodyweight exercises. 
+        bodyweight exercises. These classes are ran on Tuesday mornings 11-11:45
+        at The Wycliffe rooms in Lutterworth and Thursday mornings 10:30-11:15
+        at the Narborough parish centre. 
       testheading: "Mum and baby legs bums and tums classes "
     - image: /img/image4-1-.jpeg
       text: "If you feel you need a more individualized fitness plan or extra help
@@ -51,7 +53,7 @@ testimonials:
   - author: "Emma Robinson "
     quote: "I am really enjoying the 1-1 sessions! I Ache so much after the sessions
       but I'm already starting to feel stronger. "
-full_image: /img/thumbnail_image2.jpg
+full_image: /img/image2.jpeg
 pricing:
   heading: How much do the classes cost?
   description: The classes are set at a base rate of £5
