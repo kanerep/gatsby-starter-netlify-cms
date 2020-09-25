@@ -6,14 +6,14 @@ heading: Classes Info
 subheading: "Book classes below "
 mainpitch:
   title: SLC Fitness
-  description: "Classes designed with you at the core. I believe everyone should
+  description: Classes designed with you at the core. I believe everyone should
     feel comfortable and included at SLC FITNESS, which is why we offer
-    variations within each class to suit your ability. our aim is to not only
-    see our clients achieving results but wanting to come back again and
-    again.  "
+    variations within each class to suit your ability. Our aim is to not only
+    see our clients achieving results, but to have them wanting to come back
+    again and again.
   timetableImage: /img/timetable.jpg
-description: "Offering a range of classes including:  Barre Fitness Legs Bums &
-  Tums Fat Burning Booty Burn Beginners Adult Dance Postnatal Mum and Baby
+description: "Offering a range of classes including:  Barre Fitness, Legs Bums &
+  Tums, Fat Burning Booty Burn, Beginners Adult Dance and Postnatal Mum and Baby
   Specialised."
 intro:
   blurbs:
