@@ -1,11 +1,11 @@
 ---
-heading: A wide selection of fitness classes for ALL!
+heading: A Wide Selection of Fitness Classes for ALL!
 path: /classes
 templateKey: classes-page
 title: " Classes"
 image: /img/image4-2-.jpeg
-description: Whether it be Fat burning, Barre Fitness, Legs Bums and Tums, Booty
-  Burn or Toning Weight Classes. There is a class for everyone at SLC Fitness! I
+description: Whether it be Fat Burning, Barre Fitness, Legs Bums and Tums, Booty
+  Burn or Toning Weight Classes, there is a class for everyone at SLC Fitness! I
   offer adaptations and Easy, Intermediate and Hard Levels in each class so they
   really are suitable for ALL fitness levels.
 intro:
