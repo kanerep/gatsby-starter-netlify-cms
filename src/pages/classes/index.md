@@ -4,29 +4,29 @@ path: /classes
 templateKey: classes-page
 title: " Classes"
 image: /img/image4-2-.jpeg
-description: "Whether it be Fat burning, Barre Fitness, Legs bums and tums,
-  Booty Burn or Toning weight classes. There is a class for everyone at SLC
-  Fitness! I offer adaptations and Easy, intermediate and hard levels in each
-  class so they really are suitable for ALL fitness levels. "
+description: Whether it be Fat burning, Barre Fitness, Legs Bums and Tums, Booty
+  Burn or Toning Weight Classes. There is a class for everyone at SLC Fitness! I
+  offer adaptations and Easy, Intermediate and Hard Levels in each class so they
+  really are suitable for ALL fitness levels.
 intro:
   blurbs:
     - image: /img/barre-fitness-group.jpeg
       text: "A 45 minute workout using the basic techniques and positions in ballet to
         tone, strengthen and lengthen your body. Using the ballet Barre this
         class will help with posture, core strength, flexibility and much more.
-        These classes are ran on Monday evenings 19:00-19:45 at COPAH Studios,
+        These classes are run on Monday evenings 19:00-19:45 at COPAH Studios,
         Hinckley. "
       testheading: Barre Fitness
     - image: /img/slc-fitness-picture-4.jpg
       text: "A  workout designed to sculpt and target your Legs, Bums and Tums. An
-        easy to follow enjoyable workout designed for all abilities. These
-        classes are ran on Wednesday evenings 18:30-19:15 at the ROBJOHN Hall,
+        easy to follow, enjoyable workout designed for all abilities. These
+        classes are run on Wednesday evenings 18:30-19:15 at the ROBJOHN Hall,
         Narborough. "
       testheading: "Legs, Bums and Tums "
     - image: /img/barre-fitness.jpeg
       text: >-
         
-        A full body workout using weights. A class designed to torch calories and sculpt and tone the body. Suitable for all fitness levels. Options to use lighter or heavier weights. These classes are ran on Thursday evenings 18:45-19:30 at The Blaby and Whetstone Boys club, Whetstone.
+        A full body workout using weights. A class designed to torch calories and sculpt and tone the body. Suitable for all fitness levels. Options to use lighter or heavier weights. These classes are run on Thursday evenings 18:45-19:30 at The Blaby and Whetstone Boys club, Whetstone.
       testheading: "Tone it Up "
     - testheading: "Fat Burning "
       text: "30 minute body weight workout designed to burn fat and torch calories.
