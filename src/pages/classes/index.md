@@ -57,11 +57,11 @@ main:
     alt: Legs, bums and tums class
     image: /img/bums-tums-workout.jpeg
 testimonials:
-  - author: "Hanna "
+  - author: Hanna Williams
     quote: "Love the classes! Sam is always smiling, classes are fun and there is
-      something for everyone. SLC fitness got my motivation back "
-  - author: Demi
-    quote: "The best fitness classes around! I absolutely love the variety, every
+      something for everyone. SLC Fitness got my motivation back "
+  - author: Demi Nicol
+    quote: "The best fitness classes around! I absolutely love the variety; every
       class is different. Sam is so fab, friendly and hilarious to work out with
       "
 full_image: /img/slc-fitness-picture-4.jpg
@@ -73,12 +73,12 @@ pricing:
       price: "5"
       description: Pay as you Go!
       items:
-        - Great for busy people
-        - No commitment
-        - Cheap and affordable
+        - Great for Busy People
+        - No Commitment
+        - Cheap and Affordable
     - plan: "Monthly "
       price: "30"
-      description: Access to all classes for the month including recordimgs
+      description: Access to all classes for the month including recordings
       items:
         - Affordable plan to keep you motivated
         - Access to all SLC Fitness content and classes
