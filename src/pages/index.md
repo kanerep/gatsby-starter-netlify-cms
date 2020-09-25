@@ -19,16 +19,15 @@ intro:
   blurbs:
     - image: /img/image4-2-.jpeg
       testheading: Fun and Friendly Classes to Help You on Your Fitness Journey
-      text: >
-        Legs, Bums and Tums, Fat Burning, Barre Fitness, Tone it Up and Booty
-        Burn a wide variety of classes. You will be sure to find a class that
-        suits you! 
+      text: "I offer a wide variety of classes including: Legs, Bums and Tums, Fat
+        Burning, Barre Fitness, Tone it Up and Booty Burn. At SLC Fitness, you
+        will be sure to find a class that suits you!"
     - image: /img/image2.jpeg
-      testheading: Mum and Baby Classes
-      text: "Mum and Baby Fitness Classes. Exercise classes designed for Mum's where
-        you can bring your baby along. Strengthen and build stamina in these
-        classes designed to build strong mum's. Delivered by a postnatal
-        exercise specialist. "
+      testheading: Mum and Baby Fitness Classes
+      text: Exercise classes designed for Mums where you can bring your baby along.
+        Strengthen and build stamina in these classes that are designed to help
+        you to rebuild and reconnect to your body after pregnancy. Al classes
+        are delivered by myself, as I am a Postnatal Exercise Specialist.
   heading: This may be removed for now
   description: This may also be removed for now
 main:
