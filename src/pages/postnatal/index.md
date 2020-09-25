@@ -25,17 +25,17 @@ intro:
         10:30-11:15 at the Narborough Parish Centre. 
       testheading: "Mum and Baby Legs, Bums and Tums Classes "
     - image: /img/image4-1-.jpeg
-      text: "If you feel you need a more individualized fitness plan or extra help
-        after your pregnancy then I offer personal training sessions in the
-        comfort of your own homes. I bring all the equipment to you so again
-        there is no need to find childcare or even leave the house! "
-      testheading: "1-1 Home personal training sessions "
+      text: If you feel you need a more individualised fitness plan or extra help
+        after your pregnancy, then I offer personal training sessions in the
+        comfort of your own homes. I bring all the equipment to you so again,
+        there is no need to find childcare or even leave the house!
+      testheading: "1-1 Home Personal Training Sessions "
   heading: This may be removed for now
   description: "This may be removed for now "
 main:
   heading: Client Reviews...
   description: |
-    read what some of our lovely mums had to say. 
+    Read what some of the lovely Mum's at the SLC Fitness classes had to say!
   image1:
     alt: A group doing barre fitness
     image: /img/image2.jpeg
@@ -47,13 +47,13 @@ main:
     image: /img/slc-fitness-picture-12.jpg
 testimonials:
   - author: "Chloe Stevenson "
-    quote: "I've never stuck to workout classes or kept to regular exercise, but I
-      love your classes! I've seen such good results, I thought I was never
+    quote: I've never stuck to workout classes or kept to regular exercise, but I
+      love your classes! I've seen such good results; I thought I was never
       going to be able to wear anything tight again until I started your
-      classes. "
+      classes.
   - author: "Emma Robinson "
-    quote: "I am really enjoying the 1-1 sessions! I Ache so much after the sessions
-      but I'm already starting to feel stronger. "
+    quote: I am really enjoying the 1-1 sessions! I ache so much after the sessions
+      but I'm already starting to feel stronger.
 full_image: /img/image2.jpeg
 pricing:
   heading: How much do the classes cost?
