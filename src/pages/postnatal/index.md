@@ -63,13 +63,14 @@ pricing:
       price: "5"
       description: "Pay as you go "
       items:
-        - Great for busy people
-        - No commitment with block bookings
+        - Great for Busy People
+        - Avoid the Commitment of Block Bookings
+        - Offers Flexibility for Busy Mums
     - plan: 1-1 Home personal training
       price: "20 "
       description: £20 for a 1 hour home personal training session.
       items:
-        - Workout individualized to you
-        - Personal Training session in the comfort of your own home
-        - I bring all the equipment to you
+        - Workouts Tailored to You
+        - Personal Training Sessions in the Comfort of Your Own Home
+        - Hassle Free as I Come to You
 ---
