@@ -18,14 +18,14 @@ description: "Offering a range of classes including: Barre Fitness, Legs Bums &
 intro:
   blurbs:
     - image: /img/image4-2-.jpeg
-      testheading: "Fun, Friendly and Fat burning classes "
+      testheading: Fun and Friendly Classes to Help You on Your Fitness Journey
       text: >
-        Legs Bums and Tums, Fat burning, Barre Fitness, Tone it up and Booty
-        burn a wide variety of classes. You will be sure to find a class that
+        Legs, Bums and Tums, Fat Burning, Barre Fitness, Tone it Up and Booty
+        Burn a wide variety of classes. You will be sure to find a class that
         suits you! 
     - image: /img/image2.jpeg
-      testheading: Mum and baby classes
-      text: "Mum and baby Fitness classes. Exercise classes designed for mum's where
+      testheading: Mum and Baby Classes
+      text: "Mum and Baby Fitness Classes. Exercise classes designed for Mum's where
         you can bring your baby along. Strengthen and build stamina in these
         classes designed to build strong mum's. Delivered by a postnatal
         exercise specialist. "
