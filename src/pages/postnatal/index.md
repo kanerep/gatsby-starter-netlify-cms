@@ -22,7 +22,7 @@ intro:
         with weights to a lead aerobics style class using resistance bands and
         bodyweight exercises. These classes are run on Tuesday mornings
         11:00-11:45 at The Wycliffe Rooms in Lutterworth and Thursday mornings
-        10:30-11:15 at the Narborough Parish Centre. 
+        10:30-11:15 at the Blaby and Whetstone Boys Club in Whetstone. 
       testheading: "Mum and Baby Legs, Bums and Tums Classes "
     - image: /img/image4-1-.jpeg
       text: If you feel you need a more individualised fitness plan or extra help
