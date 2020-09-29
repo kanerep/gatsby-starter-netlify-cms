@@ -3,32 +3,31 @@ templateKey: index-page
 title: SLC Fitness
 image: /img/slc-fitness-picture-14.jpg
 heading: Classes Info
-subheading: "Book classes below "
+subheading: "Book Classes Below "
 mainpitch:
   title: SLC Fitness
-  description: "Classes designed with you at the core. I believe everyone should
-    feel comfortable and included at SLC FITNESS, which is why we offer
-    variations within each class to suit your ability. our aim is to not only
-    see our clients achieving results but wanting to come back again and
-    again.  "
-  timetableImage: /img/timetable.jpg
-description: "Offering a range of classes including:  Barre Fitness Legs Bums &
-  Tums Fat Burning Booty Burn Beginners Adult Dance Postnatal Mum and Baby
+  description: Classes designed with YOU at the core. I believe everyone should
+    feel comfortable and included at SLC Fitness, which is why I offer
+    variations within each class to suit your ability. My aim is to not only see
+    my clients achieving results, but to have them wanting to come back again
+    and again.
+  timetableImage: /img/new-timetable-.jpg
+description: "Offering a range of classes including: Barre Fitness, Legs Bums &
+  Tums, Fat Burning Booty Burn, Beginners Adult Dance and Postnatal Mum and Baby
   Specialised."
 intro:
   blurbs:
     - image: /img/image4-2-.jpeg
-      testheading: Testing blurb heading 1
-      text: >
-        Legs Bums and Tums, Fat burning, Barre Fitness, Tone it up and Booty
-        burn a wide variety of classes. You will be sure to find a class that
-        suits you! 
+      testheading: Fun and Friendly Classes to Help You on Your Fitness Journey
+      text: "I offer a wide variety of classes including: Legs, Bums and Tums, Fat
+        Burning, Barre Fitness, Tone it Up and Booty Burn. At SLC Fitness, you
+        will be sure to find a class that suits you!"
     - image: /img/image2.jpeg
-      testheading: fffff
-      text: "Mum and baby Fitness classes. Exercise classes designed for mum's where
-        you can bring your baby along. Strengthen and build stamina in these
-        classes designed to build strong mum's. Delivered by a postnatal
-        exercise specialist. "
+      testheading: Mum and Baby Fitness Classes
+      text: Exercise classes designed for Mums where you can bring your baby along.
+        Strengthen and build stamina in these classes that are designed to help
+        you to rebuild and reconnect to your body after pregnancy. Al classes
+        are delivered by myself, as I am a Postnatal Exercise Specialist.
   heading: This may be removed for now
   description: This may also be removed for now
 main:
@@ -44,9 +43,10 @@ main:
     alt: A xxxx class.
     image: /img/bums-tums-workout.jpeg
 testimonials:
-  - author: Oliver pick
-    quote: "This was the best barre fitness class I've ever had! "
-  - author: Rachel
-    quote: "This class was perfect for all abilities, I'm a beginner and had great
-      fun :) "
+  - author: "Lauren Findley "
+    quote: Sam keeps you engaged throughout and I have never sweated so much in a
+      class! All the classes are so amazing and different
+  - author: "April Hill "
+    quote: The classes are absolutely brilliant! She makes them so easy to follow
+      and gives options if you are struggling
 ---
