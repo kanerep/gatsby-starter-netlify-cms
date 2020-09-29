@@ -8,6 +8,8 @@ import BlogRoll from '../components/BlogRoll'
 import Testimonials from '../components/Testimonials'
 import Instagram from '../components/Instagram'
 
+import logo from '../img/finalSLClogo.png'
+
 export const IndexPageTemplate = ({
     image,
     title,
@@ -31,7 +33,7 @@ export const IndexPageTemplate = ({
         >
             <div className='hero-content-container container'>
                 <div class='hero-content'>
-                    <h1
+                    {/* <h1
                         className='has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen'
                         style={{
                             color: 'white',
@@ -51,6 +53,8 @@ export const IndexPageTemplate = ({
                         {subheading}
                     </p>
                     <a className='button is-primary is-cta' href='https://app.gymcatch.com/provider/2313/events' target='_blank'><span>Book Now<span className='right-arrow'>&nbsp;&rarr;</span></span></a> :
+                 */}
+                 <img className='logo-main-hero' src={logo}/>
                 </div>
             </div>
         </div>

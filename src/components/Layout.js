@@ -29,7 +29,6 @@ const TemplateWrapper = ({ children }) => {
             <Navbar />
             <div>{children}</div>
             <Footer />
-            <script src='https://app.gymcatch.com/js/bootstrap.js' />
         </div>
     )
 }

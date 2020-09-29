@@ -16,7 +16,8 @@ export const PostnatalPageTemplate = ({
     main,
     testimonials,
     fullImage,
-    pricing
+    pricing,
+    timetableImage
 }) => (
     <div>
         <div
@@ -66,6 +67,10 @@ export const PostnatalPageTemplate = ({
                         <h2 className='has-text-weight-semibold has-text-centered is-size-2'>{pricing.heading}</h2>
                         <p className='has-text-centered mb-2'>{pricing.description}</p>
                         <Pricing data={pricing.plans} />
+                        {timetableImage ?
+                            <div className='image-container has-text-centered'>
+                                <img src={timetableImage.childImageSharp.fluid.src} alt='SLC Fitness Postnatal Timetable' />
+                            </div> : null}
                     </div>
                 </div>
             </div>
@@ -112,6 +117,7 @@ const PostnatalPage = ({ data }) => {
                 testimonials={frontmatter.testimonials}
                 fullImage={frontmatter.full_image}
                 pricing={frontmatter.pricing}
+                timetableImage={frontmatter.timetableImage}
             />
         </Layout>
     )
@@ -209,6 +215,13 @@ export const postnatalPageQuery = graphql`
                         items
                         plan
                         price
+                    }
+                }
+                timetableImage {
+                    childImageSharp{
+                        fluid(maxWidth: 400, quality: 100) {
+                            ...GatsbyImageSharpFluid
+                        }
                     }
                 }
             }

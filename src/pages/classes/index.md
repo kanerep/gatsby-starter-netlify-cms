@@ -69,4 +69,5 @@ pricing:
       items:
         - Affordable plan to keep you motivated
         - Access to all SLC Fitness content and classes
+timetableImage: /img/timetable.jpg
 ---

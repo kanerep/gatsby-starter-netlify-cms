@@ -74,4 +74,5 @@ pricing:
       description: Access to all classes for the month save X amount
       items:
         - some more bullet points if necessary
+timetableImage: /img/timetable.jpg
 ---

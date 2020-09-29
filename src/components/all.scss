@@ -378,6 +378,10 @@ footer.footer {
   }
 }
 
+.logo-main-hero {
+  width: 200px;
+}
+
 .hero-content-container {
   display: flex;
   height: 150px;
@@ -386,9 +390,9 @@ footer.footer {
   align-items: center;
   flex-direction: column;
 
-  @include from ($tablet) {
-    align-items: flex-start;
-  }
+  // @include from ($tablet) {
+  //   align-items: flex-start;
+  // }
 
   @include until ($desktop) {
     padding: 1.5rem;

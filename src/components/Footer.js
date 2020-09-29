@@ -25,10 +25,10 @@ const Footer = class extends React.Component {
                                 <a title='instagram' href='https://www.instagram.com/_slcfitness/'>
                                     <img src={instagram} alt='Instagram' style={{ width: '1em', height: '1em' }} />
                                 </a>
-                                <a title='Email us' href='mailto:'>
+                                <a title='Email us' href='mailto:samchandler93@hotmail.co.uk' target='_blank'>
                                    <img src={email} alt='email' style={{ width: '1em', height: '1em' }} />
                                 </a>
-                                <a title='Call us' href='tel:'>
+                                <a title='Call us' href='tel:07562750711'>
                                     <img src={phone} alt='phone' style={{ width: '1em', height: '1em' }} />
                                 </a>
 

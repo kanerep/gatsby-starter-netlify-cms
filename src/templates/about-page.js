@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import QualLogo from '../img/hfe.jpg'
+import QualBurrell from '../img/BurrellEducation.png'
 
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
@@ -20,6 +21,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
               <PageContent className="content" content={content} />
               <div class='qualifications-wrapper has-text-centered'>
                 <img src={QualLogo} />
+                <img src={QualBurrell} />
               </div>
             </div>
           </div>
