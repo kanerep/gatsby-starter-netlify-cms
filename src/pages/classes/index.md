@@ -10,7 +10,7 @@ description: Whether it be Fat Burning, Barre Fitness, Legs Bums and Tums, Booty
   really are suitable for ALL fitness levels.
 intro:
   blurbs:
-    - image: /img/barre-fitness-group.jpeg
+    - image: /img/thumbnail_image0-1-.jpg
       text: "A 45 minute workout using the basic techniques and positions in ballet to
         tone, strengthen and lengthen your body. Using the ballet Barre this
         class will help with posture, core strength, flexibility and much more.
