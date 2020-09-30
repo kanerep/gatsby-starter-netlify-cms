@@ -73,5 +73,5 @@ pricing:
         - Workouts Tailored to You
         - Personal Training Sessions in the Comfort of Your Own Home
         - Hassle Free as I Come to You
-timetableImage: /img/timetable.jpg
+timetableImage: /img/slc-postnatal-leaflet-sept-2020.jpg
 ---
