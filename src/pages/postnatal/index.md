@@ -15,7 +15,7 @@ description: Mum and Baby Fitness Classes designed to build strength and stamina
   C-Section Scar Massage Therapist, so can refer you as and when is needed.
 intro:
   blurbs:
-    - image: /img/image2.jpeg
+    - image: /img/thumbnail_img_0022.jpg
       text: >
         A 45 minute class designed to strengthen and build stamina. The sessions
         are different each week switching from a circuit training style class
