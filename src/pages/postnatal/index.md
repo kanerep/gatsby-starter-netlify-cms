@@ -51,9 +51,10 @@ testimonials:
       love your classes! I've seen such good results; I thought I was never
       going to be able to wear anything tight again until I started your
       classes.
-  - author: "Emma Robinson "
-    quote: I am really enjoying the 1-1 sessions! I ache so much after the sessions
-      but I'm already starting to feel stronger.
+  - author: Carly Bowyer
+    quote: "Mum and baby class with SLC Fitness was fab. Never smiled so much
+      throughout a workout that's made me sweat so much! Max loved the music and
+      watching mummy jump around. "
 full_image: /img/image2.jpeg
 pricing:
   heading: How much do the classes cost?
