@@ -19,7 +19,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                 {title}
               </h2>
               <PageContent className="content" content={content} />
-              <div class='qualifications-wrapper has-text-centered'>
+              <div className='qualifications-wrapper has-text-centered'>
                 <img src={QualLogo} />
                 <img src={QualBurrell} />
               </div>

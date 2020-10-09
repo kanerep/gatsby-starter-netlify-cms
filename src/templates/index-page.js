@@ -32,7 +32,7 @@ export const IndexPageTemplate = ({
             }}
         >
             <div className='hero-content-container container'>
-                <div class='hero-content has-text-centered'>
+                <div className='hero-content has-text-centered'>
                     <h1
                         className='has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen'
                         style={{

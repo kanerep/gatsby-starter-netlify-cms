@@ -1,7 +1,5 @@
 import React from 'react'
-import { Link } from 'gatsby'
 
-import logo from '../img/logo-slc-t.png'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import email from '../img/social/email.svg'
@@ -25,7 +23,7 @@ const Footer = class extends React.Component {
                                 <a title='instagram' href='https://www.instagram.com/_slcfitness/'>
                                     <img src={instagram} alt='Instagram' style={{ width: '1em', height: '1em' }} />
                                 </a>
-                                <a title='Email us' href='mailto:samchandler93@hotmail.co.uk' target='_blank'>
+                                <a title='Email us' href='mailto:samchandler93@hotmail.co.uk' target='_blank' rel='noreferrer'>
                                    <img src={email} alt='email' style={{ width: '1em', height: '1em' }} />
                                 </a>
                                 <a title='Call us' href='tel:07562750711'>

@@ -18,7 +18,7 @@ const FeatureGrid = ({ gridItems, book, colours }) => (
               <p>{item.text}</p>
               <div className='button-container'>
                 {book ? 
-                    <a className='button is-secondary' href='https://app.gymcatch.com/provider/2313/events' target='_blank'><span>Book Now<span className='right-arrow'>&nbsp;&rarr;</span></span></a> :
+                    <a className='button is-secondary' href='https://app.gymcatch.com/provider/2313/events' target='_blank' rel='noreferrer' ><span>Book Now<span className='right-arrow'>&nbsp;&rarr;</span></span></a> :
                     <Link className='button is-secondary' to='/classes'><span>Explore<span className='right-arrow'>&nbsp;&rarr;</span></span></Link>
                 }
               </div>
