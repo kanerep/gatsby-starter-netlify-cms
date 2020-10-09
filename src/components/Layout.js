@@ -16,7 +16,7 @@ const TemplateWrapper = ({ children }) => {
                 <meta name='description' content={description} />
 
                 <link rel='apple-touch-icon' sizes='180x180' href={`${withPrefix('/')}img/apple-touch-icon.png`} />
-                <link rel='icon' type='image/png' href={`${withPrefix('/')}img/slc-fitness-favicon.png`} sizes='32x32' />
+                <link rel='icon' type='image/png' href={`${withPrefix('/')}img/faviconSLC.png`} sizes='32x32' />
 
                 <link rel='mask-icon' href={`${withPrefix('/')}img/safari-pinned-tab.svg`} color='#ff4400' />
                 <meta name='theme-color' content='#fff' />

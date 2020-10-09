@@ -32,8 +32,8 @@ export const IndexPageTemplate = ({
             }}
         >
             <div className='hero-content-container container'>
-                <div class='hero-content'>
-                    {/* <h1
+                <div class='hero-content has-text-centered'>
+                    <h1
                         className='has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen'
                         style={{
                             color: 'white',
@@ -52,9 +52,7 @@ export const IndexPageTemplate = ({
                     >
                         {subheading}
                     </p>
-                    <a className='button is-primary is-cta' href='https://app.gymcatch.com/provider/2313/events' target='_blank'><span>Book Now<span className='right-arrow'>&nbsp;&rarr;</span></span></a> :
-                 */}
-                 <img className='logo-main-hero' src={logo}/>
+                    <a className='button is-primary is-cta' href='https://app.gymcatch.com/provider/2313/events' target='_blank'><span>Book Now<span className='right-arrow'>&nbsp;&rarr;</span></span></a>
                 </div>
             </div>
         </div>
@@ -100,11 +98,6 @@ export const IndexPageTemplate = ({
                                 <h2 className='has-text-weight-semibold is-size-2 has-text-centered'>
                                     What some of our members say
                                 </h2>
-                                <p className='has-text-centered'>
-                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga, nam doloribus cumque
-                                    beatae minima quibusdam ex libero unde magni tempore sunt blanditiis omnis soluta,
-                                    iusto consequatur dolores adipisci nulla! Blanditiis.
-                                </p>
                                 <Testimonials testimonials={testimonials} />
                             </div>
                             <Instagram />
