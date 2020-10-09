@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: SLC Fitness
+title: Classes designed with YOU at the core
 image: /img/slc-fitness-picture-14.jpg
 heading: Classes Info
 subheading: "Book Classes Below "
