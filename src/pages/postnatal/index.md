@@ -15,7 +15,7 @@ description: Mum and Baby Fitness Classes designed to build strength and stamina
   C-Section Scar Massage Therapist, so can refer you as and when is needed.
 intro:
   blurbs:
-    - image: /img/image2.jpeg
+    - image: /img/thumbnail_img_0022.jpg
       text: >
         A 45 minute class designed to strengthen and build stamina. The sessions
         are different each week switching from a circuit training style class
@@ -51,9 +51,10 @@ testimonials:
       love your classes! I've seen such good results; I thought I was never
       going to be able to wear anything tight again until I started your
       classes.
-  - author: "Emma Robinson "
-    quote: I am really enjoying the 1-1 sessions! I ache so much after the sessions
-      but I'm already starting to feel stronger.
+  - author: Carly Bowyer
+    quote: "Mum and baby class with SLC Fitness was fab. Never smiled so much
+      throughout a workout that's made me sweat so much! Max loved the music and
+      watching mummy jump around. "
 full_image: /img/image2.jpeg
 pricing:
   heading: How much do the classes cost?
@@ -73,5 +74,5 @@ pricing:
         - Workouts Tailored to You
         - Personal Training Sessions in the Comfort of Your Own Home
         - Hassle Free as I Come to You
-timetableImage: /img/timetable.jpg
+timetableImage: /img/slc-postnatal-leaflet-sept-2020.jpg
 ---
