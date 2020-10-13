@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: SLC Fitness
+title: Classes designed with YOU at the core
 image: /img/slc-fitness-picture-14.jpg
 heading: Classes Info
 subheading: "Book Classes Below "
 mainpitch:
-  title: SLC Fitness
+  title: Welcome to SLC Fitness
   description: Classes designed with YOU at the core. I believe everyone should
     feel comfortable and included at SLC Fitness, which is why I offer
     variations within each class to suit your ability. My aim is to not only see
