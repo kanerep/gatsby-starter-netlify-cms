@@ -23,7 +23,7 @@ intro:
         classes are run on Wednesday evenings 18:30-19:15 at the ROBJOHN Hall,
         Narborough. "
       testheading: "Legs, Bums and Tums "
-    - image: /img/barre-fitness.jpeg
+    - image: /img/image2-2-.jpeg
       text: >-
         
         A full body workout using weights. A class designed to build strength and stamina whilst sculpting and toning the body. Suitable for all fitness levels. Options to use lighter or heavier weights. These classes are run on Thursday evenings 18:45-19:30 at The Blaby and Whetstone Boys Club, Whetstone.
