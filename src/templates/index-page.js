@@ -27,8 +27,7 @@ export const IndexPageTemplate = ({
                 backgroundImage: `linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(0, 128, 128, 0.63)), url(${!!image.childImageSharp
                     ? image.childImageSharp.fluid.src
                     : image})`,
-                backgroundPosition: `top 20% center !important`,
-                backgroundAttachment: `fixed`
+                backgroundPosition: `top 20% center !important`
             }}
         >
             <div className='hero-content-container container'>
@@ -52,7 +51,15 @@ export const IndexPageTemplate = ({
                     >
                         {subheading}
                     </p>
-                    <a className='button is-primary is-cta' href='https://app.gymcatch.com/provider/2313/events' target='_blank'><span>Book Now<span className='right-arrow'>&nbsp;&rarr;</span></span></a>
+                    <a
+                        className='button is-primary is-cta'
+                        href='https://app.gymcatch.com/provider/2313/events'
+                        target='_blank'
+                    >
+                        <span>
+                            Book Now<span className='right-arrow'>&nbsp;&rarr;</span>
+                        </span>
+                    </a>
                 </div>
             </div>
         </div>
@@ -68,7 +75,6 @@ export const IndexPageTemplate = ({
                                 <div>
                                     <h3 className='subtitle'>{mainpitch.description}</h3>
                                 </div>
-                                
                             </div>
                             <div className='columns'>
                                 <div className='column is-12 has-text-centered'>
@@ -101,10 +107,14 @@ export const IndexPageTemplate = ({
                                 <Testimonials testimonials={testimonials} />
                             </div>
                             <Instagram />
-                            {mainpitch.timetableImage ?
-                            <div className='image-container has-text-centered'>
-                                <img src={mainpitch.timetableImage.childImageSharp.fluid.src} alt='SLC Fitness Timetable' />
-                            </div> : null}
+                            {mainpitch.timetableImage ? (
+                                <div className='image-container has-text-centered'>
+                                    <img
+                                        src={mainpitch.timetableImage.childImageSharp.fluid.src}
+                                        alt='SLC Fitness Timetable'
+                                    />
+                                </div>
+                            ) : null}
                         </div>
                     </div>
                 </div>
@@ -173,7 +183,7 @@ export const pageQuery = graphql`
                     title
                     description
                     timetableImage {
-                        childImageSharp{
+                        childImageSharp {
                             fluid(maxWidth: 400, quality: 100) {
                                 ...GatsbyImageSharpFluid
                             }

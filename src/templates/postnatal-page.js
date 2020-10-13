@@ -26,17 +26,17 @@ export const PostnatalPageTemplate = ({
                 backgroundImage: `linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(0, 128, 128, 0.63)), url(${!!image.childImageSharp
                     ? image.childImageSharp.fluid.src
                     : image})`,
-                backgroundPosition: `top 20% center !important`,
-                backgroundAttachment: `fixed`
+                backgroundPosition: `top 20% center !important`
             }}
         >
             <h2
-                className='has-text-weight-bold is-size-1'
+                className='has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen'
                 style={{
                     boxShadow: '0.5rem 0 0 #48D1CC, -0.5rem 0 0 #48D1CC',
                     backgroundColor: '#48D1CC',
                     color: 'white',
-                    padding: '1rem'
+                    padding: '1rem',
+                    maxWidth: '90vw'
                 }}
             >
                 {title}
@@ -51,7 +51,7 @@ export const PostnatalPageTemplate = ({
                             <p className='has-text-centered'>{description}</p>
                         </div>
                         <div>
-                            <Features gridItems={intro.blurbs} book={true}/>
+                            <Features gridItems={intro.blurbs} book={true} />
                             <h3 className='has-text-weight-semibold has-text-centered is-size-2'>{main.heading}</h3>
                             <p className='has-text-centered'>{main.description}</p>
                         </div>
@@ -67,10 +67,14 @@ export const PostnatalPageTemplate = ({
                         <h2 className='has-text-weight-semibold has-text-centered is-size-2'>{pricing.heading}</h2>
                         <p className='has-text-centered mb-2'>{pricing.description}</p>
                         <Pricing data={pricing.plans} />
-                        {timetableImage ?
+                        {timetableImage ? (
                             <div className='image-container has-text-centered'>
-                                <img src={timetableImage.childImageSharp.fluid.src} alt='SLC Fitness Postnatal Timetable' />
-                            </div> : null}
+                                <img
+                                    src={timetableImage.childImageSharp.fluid.src}
+                                    alt='SLC Fitness Postnatal Timetable'
+                                />
+                            </div>
+                        ) : null}
                     </div>
                 </div>
             </div>
@@ -218,7 +222,7 @@ export const postnatalPageQuery = graphql`
                     }
                 }
                 timetableImage {
-                    childImageSharp{
+                    childImageSharp {
                         fluid(maxWidth: 400, quality: 100) {
                             ...GatsbyImageSharpFluid
                         }
