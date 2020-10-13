@@ -20,6 +20,12 @@ $lg-mobile: 600px;
   color: $turqoise;
 }
 
+.site-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh - 5rem);
+}
+
 h3.subtitle {
   color: #4a4a4a;
 }
@@ -186,6 +192,7 @@ h3.subtitle {
 footer.footer {
   padding: 3rem 0rem 0rem;
   background-color: transparent;
+  margin-top: auto;
 }
 //Menu overrides
 // $menu-item-color: $white-ter;
@@ -524,4 +531,11 @@ footer.footer {
   text-align: center;
   list-style: disc inside;
   margin-left: 0;
+}
+
+body.has-navbar-fixed-top, html.has-navbar-fixed-top {
+  padding-top: 3.25rem;
+  @include from ($desktop) {
+    padding-top: 5rem;
+  }
 }
