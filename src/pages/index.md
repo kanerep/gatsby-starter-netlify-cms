@@ -12,16 +12,17 @@ mainpitch:
     my clients achieving results, but to have them wanting to come back again
     and again.
   timetableImage: /img/new-timetable-.jpg
-description: "Offering a range of classes including: Barre Fitness, Legs Bums &
-  Tums, Fat Burning Booty Burn, Beginners Adult Dance and Postnatal Mum and Baby
-  Specialised."
+description: "Offering a range of Fitness classes based in Leicestershire
+  including: Barre Fitness, Legs Bums & Tums, Fat Burning Booty Burn, Beginners
+  Adult Dance and Postnatal Mum and Baby Specialised."
 intro:
   blurbs:
     - image: /img/image4-2-.jpeg
       testheading: Fun and Friendly Classes to Help You on Your Fitness Journey
-      text: "I offer a wide variety of classes including: Legs, Bums and Tums, Fat
-        Burning, Barre Fitness, Tone it Up and Booty Burn. At SLC Fitness, you
-        will be sure to find a class that suits you!"
+      text: "I offer a wide variety of Fitness classes in the Leicestershire area
+        including: Legs, Bums and Tums, Fat Burning, Barre Fitness, Tone it Up
+        and Booty Burn. At SLC Fitness, you will be sure to find a class that
+        suits you!"
     - image: /img/image2.jpeg
       testheading: Mum and Baby Fitness Classes
       text: Exercise classes designed for Mums where you can bring your baby along.
