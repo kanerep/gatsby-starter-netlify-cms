@@ -11,7 +11,7 @@ mainpitch:
     variations within each class to suit your ability. My aim is to not only see
     my clients achieving results, but to have them wanting to come back again
     and again.
-  timetableImage: /img/new-timetable-.jpg
+  timetableImage: /img/new-timetable-nov.jpg
 description: "Offering a range of Fitness classes based in Leicestershire
   including: Barre Fitness, Legs Bums & Tums, Fat Burning Booty Burn, Beginners
   Adult Dance and Postnatal Mum and Baby Specialised."
