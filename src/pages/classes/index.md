@@ -4,10 +4,12 @@ path: /classes
 templateKey: classes-page
 title: " Classes"
 image: /img/image4-2-.jpeg
-description: Whether it be Fat Burning, Barre Fitness, Legs Bums and Tums, Booty
-  Burn or Toning Weight Classes, there is a class for everyone at SLC Fitness! I
-  offer adaptations and Easy, Intermediate and Hard Levels in each class so they
-  really are suitable for ALL fitness levels.
+description: "Whether it be Fat Burning, Barre Fitness, Legs Bums and Tums,
+  Booty Burn or Toning Weight Classes, there is a class for everyone at SLC
+  Fitness! I offer adaptations and Easy, Intermediate and Hard Levels in each
+  class so they really are suitable for ALL fitness levels. Due to the most
+  recent November lockdown and restrictions all classes are currently running
+  online via zoom. "
 intro:
   blurbs:
     - image: /img/thumbnail_image0-1-.jpg
