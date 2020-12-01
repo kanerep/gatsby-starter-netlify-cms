@@ -15,8 +15,8 @@ mainpitch:
 description: "Offering a range of Fitness classes based in Leicestershire
   including: Barre Fitness, Legs Bums & Tums, Fat Burning Booty Burn, Beginners
   Adult Dance and Postnatal Mum and Baby Specialised. Due to the current
-  November lockdown and national restrictions all of my classes are currently
-  running online via Zoom. "
+  national restrictions all of my classes are currently running online via Zoom.
+  "
 intro:
   blurbs:
     - image: /img/image4-2-.jpeg
