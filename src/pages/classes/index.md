@@ -34,7 +34,7 @@ intro:
       text: "30 minute body weight workout designed to burn fat and torch calories.
         Easy, intermediate and hard levels for each exercise so suitable for all
         fitness abilities. A class guaranteed to make you sweat. This class is
-        pre recorded and can be sent out individually for you to do at home in
+        also recorded and can be sent out individually for you to do at home in
         your own time.  "
       image: /img/slc-fitness-picture-6.jpg
     - image: /img/slc-fitness-booty-burn-.jpg
@@ -85,5 +85,5 @@ pricing:
       items:
         - Affordable plan to keep you motivated
         - Access to all SLC Fitness content and classes
-timetableImage: /img/new-timetable-nov.jpg
+timetableImage: /img/updated-slc-fitness-poster-2021.jpg
 ---
