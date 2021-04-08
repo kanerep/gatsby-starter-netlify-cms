@@ -11,12 +11,12 @@ mainpitch:
     variations within each class to suit your ability. My aim is to not only see
     my clients achieving results, but to have them wanting to come back again
     and again.
-  timetableImage: /img/updated-slc-fitness-poster-2021.jpg
+  timetableImage: /img/slc-leaflet-local-online-classes-25th-march-2021.jpg
 description: "Offering a range of Fitness classes based in Leicestershire
   including: Barre Fitness, Legs Bums & Tums, Fat Burning Booty Burn, Beginners
   Adult Dance and Postnatal Mum and Baby Specialised. Due to the current
-  national restrictions all of my classes are currently running online via Zoom.
-  "
+  national restrictions my classes are ran outdoors and online. See timetable
+  for more information. "
 intro:
   blurbs:
     - image: /img/image4-2-.jpeg
