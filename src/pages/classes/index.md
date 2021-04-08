@@ -9,33 +9,31 @@ description: "Whether it be Fat Burning, Barre Fitness, Legs Bums and Tums,
   Fitness! I offer adaptations and Easy, Intermediate and Hard Levels in each
   class so they really are suitable for ALL fitness levels. Due to the most
   recent Government restrictions due to COVID-19 all classes are currently
-  running online via zoom. "
+  running outdoors or online. Please see timetable for more information. "
 intro:
   blurbs:
     - image: /img/thumbnail_image0-1-.jpg
       text: "A 45 minute workout using the basic techniques and positions in ballet to
         tone, strengthen and lengthen your body. Using the ballet Barre this
         class will help with posture, core strength, flexibility and much more.
-        These classes are run on Monday evenings 19:00-19:45 at COPAH Studios,
-        Hinckley. "
+        These classes are run on Monday evenings 19:00-19:45 online via zoom.  "
       testheading: Barre Fitness
     - image: /img/slc-fitness-picture-4.jpg
       text: "A  workout designed to sculpt and target your Legs, Bums and Tums. An
         easy to follow, enjoyable workout designed for all abilities. These
-        classes are run on Wednesday evenings 18:30-19:15 at the ROBJOHN Hall,
-        Narborough. "
+        classes are run on Wednesday evenings 18:30-19:15 on Narborough park,
+        LE19 2EL. "
       testheading: "Legs, Bums and Tums "
     - image: /img/image2-2-.jpeg
       text: >-
         
-        A full body workout using weights. A class designed to build strength and stamina whilst sculpting and toning the body. Suitable for all fitness levels. Options to use lighter or heavier weights. These classes are run on Thursday evenings 18:45-19:30 at The Blaby and Whetstone Boys Club, Whetstone.
+        A full body workout using weights. A class designed to build strength and stamina whilst sculpting and toning the body. Suitable for all fitness levels. Options to use lighter or heavier weights. These classes are run on Thursday evenings 18:30-19:15 on Narborough park LE19 2EL.
       testheading: "Tone it Up "
     - testheading: "Fat Burning "
       text: "30 minute body weight workout designed to burn fat and torch calories.
         Easy, intermediate and hard levels for each exercise so suitable for all
         fitness abilities. A class guaranteed to make you sweat. This class is
-        also recorded and can be sent out individually for you to do at home in
-        your own time.  "
+        currently ran outdoors at 18:15-18:45 on Narborough park, LE19 2EL.  "
       image: /img/slc-fitness-picture-6.jpg
     - image: /img/slc-fitness-booty-burn-.jpg
       testheading: "Booty Burn "
@@ -85,5 +83,5 @@ pricing:
       items:
         - Affordable plan to keep you motivated
         - Access to all SLC Fitness content and classes
-timetableImage: /img/updated-slc-fitness-poster-2021.jpg
+timetableImage: /img/slc-leaflet-local-online-classes-25th-march-2021.jpg
 ---
