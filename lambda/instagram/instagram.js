@@ -12,7 +12,10 @@ async function getPosts () {
     if (timeSinceLastFetch <= 1800000) {
         return cache.posts
     }
-    const data = await fetch(url).then((res) => res.json())
+    const data = await fetch(url).then((res) => {
+        res.json()
+        console.log('res data instagram netlify function', res)
+    })
     const posts = slimUpPosts(data)
     // const posts = data;
     cache.lastFetch = Date.now()

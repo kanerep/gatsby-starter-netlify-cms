@@ -19,7 +19,10 @@ function converIGtoJPG (base64data) {
 function useInstagram () {
     const [ posts, setPosts ] = useState([])
     useEffect(() => {
-        fetch(`/.netlify/functions/instagram`).then((res) => res.json()).then((data) => {
+        fetch(`/.netlify/functions/instagram`).then((res) => {
+            res.json()
+            console.log('instagram FE function', res)
+        }).then((data) => {
             setPosts(data)
         })
     }, [])
@@ -33,7 +36,7 @@ export default function Instagram () {
             {!gramz.length && <p>One sec, getting the Instagram feed...</p>}
             {gramz.length ? <h4 className='has-text-centered'>Our Latest Posts</h4> : null}
             <div className='instagram-feed'>
-            {gramz.map((gram) => (
+            {gramz.length ? gramz.map((gram) => (
         
                 <a href={gram.url} key={gram.id}>
                     <img
@@ -45,7 +48,7 @@ export default function Instagram () {
                     </div>
                 </a>
 
-            ))}
+            )) : ''}
             </div>
         </div>
     )
