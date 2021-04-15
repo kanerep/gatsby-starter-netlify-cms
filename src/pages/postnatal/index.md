@@ -20,15 +20,15 @@ intro:
         A 45 minute class designed to strengthen and build stamina. The sessions
         are different each week switching from a circuit training style class
         with weights to a lead aerobics style class using resistance bands and
-        bodyweight exercises. These classes are run on Tuesday mornings
-        11:00-11:45 at The Wycliffe Rooms in Lutterworth and Thursday mornings
-        10:30-11:15 at the Blaby and Whetstone Boys Club in Whetstone. 
+        bodyweight exercises. These classes are currently running outdoors on
+        Narborough park, every Thursday 10:30-11:15am. 
       testheading: "Mum and Baby Legs, Bums and Tums Classes "
     - image: /img/image4-1-.jpeg
       text: If you feel you need a more individualised fitness plan or extra help
-        after your pregnancy, then I offer personal training sessions in the
-        comfort of your own homes. I bring all the equipment to you so again,
-        there is no need to find childcare or even leave the house!
+        after your pregnancy or during your pregnancy, then I offer personal
+        training sessions in the comfort of your own homes. I bring all the
+        equipment to you so again, there is no need to find childcare or even
+        leave the house!
       testheading: "1-1 Home Personal Training Sessions "
   heading: This may be removed for now
   description: "This may be removed for now "
