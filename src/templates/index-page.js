@@ -106,7 +106,7 @@ export const IndexPageTemplate = ({
                                 </h2>
                                 <Testimonials testimonials={testimonials} />
                             </div>
-                            <Instagram />
+                            {/* <Instagram /> */}
                             {mainpitch.timetableImage ? (
                                 <div className='image-container has-text-centered'>
                                     <img
