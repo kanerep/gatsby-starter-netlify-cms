@@ -20,16 +20,18 @@ intro:
         A 45 minute class designed to strengthen and build stamina. The sessions
         are different each week switching from a circuit training style class
         with weights to a lead aerobics style class using resistance bands and
-        bodyweight exercises. These classes are currently running outdoors on
-        Narborough park, every Thursday 10:30-11:15am. 
-      testheading: "Mum and Baby Legs, Bums and Tums Classes "
+        bodyweight exercises. These classes are currently running on Tuesday
+        mornings 11-11:45 am at the Mortons bistro in Gilmorton, LE17 5LT and on
+        Thursday mornings 10:30-11:15am at the Blaby and Whetstone boys club,
+        LE8 6LW. 
+      testheading: "Mum and Baby Fitness Classes "
     - image: /img/image4-1-.jpeg
       text: If you feel you need a more individualised fitness plan or extra help
         after your pregnancy or during your pregnancy, then I offer personal
-        training sessions in the comfort of your own homes. I bring all the
-        equipment to you so again, there is no need to find childcare or even
-        leave the house!
-      testheading: "1-1 Home Personal Training Sessions "
+        training sessions in the comfort of your own homes or location of your
+        choice. I bring all the equipment to you so again, there is no need to
+        find childcare or even leave the house!
+      testheading: "1-1 Personal Training Sessions "
   heading: This may be removed for now
   description: "This may be removed for now "
 main:
