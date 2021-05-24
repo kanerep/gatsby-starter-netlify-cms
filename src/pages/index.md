@@ -13,18 +13,15 @@ mainpitch:
     and again.
   timetableImage: /img/slc-leaflet-local-online-classes-25th-march-2021.jpg
 description: "Offering a range of Fitness classes based in Leicestershire
-  including: Barre Fitness, Legs Bums & Tums, Fat Burning Booty Burn, Beginners
-  Adult Dance and Postnatal Mum and Baby Specialised. Due to the current
-  national restrictions my classes are ran outdoors and online. See timetable
-  for more information. "
+  including: Barre Fitness, Legs Bums & Tums, Fat Burning and Postnatal Mum and
+  Baby Specialised. See timetable for more information. "
 intro:
   blurbs:
     - image: /img/image4-2-.jpeg
       testheading: Fun and Friendly Classes to Help You on Your Fitness Journey
       text: "I offer a wide variety of Fitness classes in the Leicestershire area
-        including: Legs, Bums and Tums, Fat Burning, Barre Fitness, Tone it Up
-        and Booty Burn. At SLC Fitness, you will be sure to find a class that
-        suits you!"
+        including: Legs, Bums and Tums, Fat Burning, Barre Fitness and Tone it
+        Up. At SLC Fitness, you will be sure to find a class that suits you!"
     - image: /img/image2.jpeg
       testheading: Mum and Baby Fitness Classes
       text: Exercise classes designed for Mums where you can bring your baby along.
