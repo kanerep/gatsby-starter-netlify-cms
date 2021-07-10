@@ -19,10 +19,10 @@ intro:
         LE10 1QW  "
       testheading: Barre Fitness
     - image: /img/slc-fitness-picture-4.jpg
-      text: "A  workout designed to sculpt and target your Legs, Bums and Tums. An
-        easy to follow, enjoyable workout designed for all abilities. These
-        classes are run on Wednesday evenings 18:30-19:15 at the Robjohn hall,
-        LE19 2GS "
+      text: A  workout designed to sculpt and target your Legs, Bums and Tums. An easy
+        to follow, enjoyable workout designed for all abilities. These classes
+        are run on Wednesday evenings 18:30-19:15 at Narborough Parish Centre,
+        LE19 2EL
       testheading: "Legs, Bums and Tums "
     - image: /img/image2-2-.jpeg
       text: >-
