@@ -76,5 +76,5 @@ pricing:
       items:
         - Affordable plan to keep you motivated
         - Access to all SLC Fitness content and classes
-timetableImage: /img/slc-leaflet-local-online-classes-may-2021-final.jpg
+timetableImage: /img/slc-leaflet-local-classes-july-2021-v3.jpg
 ---
