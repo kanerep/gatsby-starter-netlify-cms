@@ -15,15 +15,14 @@ description: Mum and Baby Fitness Classes designed to build strength and stamina
   C-Section Scar Massage Therapist, so can refer you as and when is needed.
 intro:
   blurbs:
-    - image: /img/thumbnail_img_0022.jpg
+    - image: /img/mum-and-baby-mortons.jpg
       text: >
-        A 45 minute class designed to strengthen and build stamina. The sessions
-        are different each week switching from a circuit training style class
-        with weights to a lead aerobics style class using resistance bands and
-        bodyweight exercises. These classes are currently running on Tuesday
-        mornings 11-11:45 am at the Mortons bistro in Gilmorton, LE17 5LT and on
-        Thursday mornings 10:30-11:15am at the Blaby and Whetstone boys club,
-        LE8 6LW. 
+        A 45 minute class designed to strengthen and build stamina. In these
+        classes we include cardio, weight training, body conditioning using
+        resistance bands and a core pelvic floor section. These classes are
+        currently running on Tuesday mornings 11-11:45 am at the Mortons bistro
+        in Gilmorton, LE17 5LT and on Thursday mornings 10:30-11:15am at the
+        Blaby and Whetstone boys club, LE8 6LW. 
       testheading: "Mum and Baby Fitness Classes "
     - image: /img/image4-1-.jpeg
       text: If you feel you need a more individualised fitness plan or extra help
@@ -77,5 +76,5 @@ pricing:
         - Workouts Tailored to You
         - Personal Training Sessions in the Comfort of Your Own Home
         - Hassle Free as I Come to You
-timetableImage: /img/slc-postnatal-leaflet-sept-2020.jpg
+timetableImage: /img/slc-pre-postnatal-leaflet-june-2021-final.jpg
 ---
