@@ -11,7 +11,7 @@ mainpitch:
     variations within each class to suit your ability. My aim is to not only see
     my clients achieving results, but to have them wanting to come back again
     and again.
-  timetableImage: /img/slc-leaflet-local-online-classes-25th-march-2021.jpg
+  timetableImage: /img/slc-leaflet-local-classes-july-2021-v3.jpg
 description: "Offering a range of Fitness classes based in Leicestershire
   including: Barre Fitness, Legs Bums & Tums, Fat Burning and Postnatal Mum and
   Baby Specialised. See timetable for more information. "
@@ -26,7 +26,7 @@ intro:
       testheading: Mum and Baby Fitness Classes
       text: Exercise classes designed for Mums where you can bring your baby along.
         Strengthen and build stamina in these classes that are designed to help
-        you to rebuild and reconnect to your body after pregnancy. Al classes
+        you to rebuild and reconnect to your body after pregnancy. All classes
         are delivered by myself, as I am a Postnatal Exercise Specialist.
   heading: This may be removed for now
   description: This may also be removed for now
