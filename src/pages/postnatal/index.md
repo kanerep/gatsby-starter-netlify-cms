@@ -69,8 +69,8 @@ pricing:
         - Avoid the Commitment of Block Bookings
         - Offers Flexibility for Busy Mums
     - plan: 1-1 Home personal training
-      price: "20 "
-      description: £20 for a 1 hour home personal training session. (Block booking
+      price: "22"
+      description: £22 for a 1 hour home personal training session. (Block booking
         discount available)
       items:
         - Workouts Tailored to You
