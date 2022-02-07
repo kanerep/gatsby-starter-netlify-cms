@@ -3,7 +3,7 @@ heading: A Wide Selection of Fitness Classes for ALL!
 path: /classes
 templateKey: classes-page
 title: " Classes"
-image: /img/image4-2-.jpeg
+image: /img/slc-fitness-fun.jpg
 description: "Whether it be Fat Burning, Barre Fitness, Legs Bums and Tums or
   Toning Weight Classes, there is a class for everyone at SLC Fitness! I offer
   adaptations and Easy, Intermediate and Hard Levels in each class so they
@@ -18,13 +18,13 @@ intro:
         These classes are run on Monday evenings at the COPAH Studios, Hinckley,
         LE10 1QW  "
       testheading: Barre Fitness
-    - image: /img/slc-fitness-picture-4.jpg
+    - image: /img/slc-fitness-legs-bums.jpg
       text: A  workout designed to sculpt and target your Legs, Bums and Tums. An easy
         to follow, enjoyable workout designed for all abilities. These classes
         are run on Wednesday evenings 18:30-19:15 at Narborough Parish Centre,
         LE19 2EL
       testheading: "Legs, Bums and Tums "
-    - image: /img/image2-2-.jpeg
+    - image: /img/slc-fitness-legs-bums-2.jpg
       text: >-
         
         A full body workout using weights. A class designed to build strength and stamina whilst sculpting and toning the body. Suitable for all fitness levels. Options to use lighter or heavier weights. These classes are run on Thursday evenings 18:45-19:30 at the Blaby and Whetstone boys club, LE8 6LW
@@ -58,7 +58,7 @@ testimonials:
     quote: "The best fitness classes around! I absolutely love the variety; every
       class is different. Sam is so fab, friendly and hilarious to work out with
       "
-full_image: /img/slc-fitness-picture-4.jpg
+full_image: /img/slc-fitness-fun-2.jpg
 pricing:
   heading: How much do the classes cost?
   description: The classes are set at a base rate of £5
