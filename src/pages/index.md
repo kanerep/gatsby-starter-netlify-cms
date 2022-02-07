@@ -14,7 +14,7 @@ mainpitch:
   timetableImage: /img/slc-leaflet-local-classes-july-2021-v3.jpg
 description: "Offering a range of Fitness classes based in Leicestershire
   including: Barre Fitness, Legs Bums & Tums, Fat Burning and Postnatal Mum and
-  Baby Specialised. See timetable for more information. "
+  Baby Specialised classes. See timetable for more information. "
 intro:
   blurbs:
     - image: /img/image4-2-.jpeg
