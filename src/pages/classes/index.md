@@ -71,7 +71,7 @@ pricing:
         - No Commitment
         - Cheap and Affordable
     - plan: "Monthly "
-      price: "30"
+      price: "32"
       description: Access to all classes for the month including recordings
       items:
         - Affordable plan to keep you motivated
