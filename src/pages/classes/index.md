@@ -4,11 +4,11 @@ path: /classes
 templateKey: classes-page
 title: " Classes"
 image: /img/slc-fitness-fun.jpg
-description: "Whether it be Fat Burning, Barre Fitness, Legs Bums and Tums or
-  Toning Weight Classes, there is a class for everyone at SLC Fitness! I offer
-  adaptations and Easy, Intermediate and Hard Levels in each class so they
-  really are suitable for ALL fitness levels. Please see timetable for more
-  information. "
+description: "Whether it be Fat Burning, Barre Fitness, Legs Bums and Tums,
+  Toning Weight Classes or Adults beginners dance classes there is a class for
+  everyone at SLC Fitness! I offer adaptations and Easy, Intermediate and Hard
+  Levels in each class so they really are suitable for ALL fitness levels.
+  Please see timetable for more information. "
 intro:
   blurbs:
     - image: /img/thumbnail_image0-1-.jpg
@@ -61,7 +61,7 @@ testimonials:
 full_image: /img/slc-fitness-fun-2.jpg
 pricing:
   heading: How much do the classes cost?
-  description: The classes are set at a base rate of £5
+  description: The classes are set at a base rate of £5.50
   plans:
     - plan: Pay per session
       price: "5"
