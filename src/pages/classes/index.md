@@ -64,7 +64,7 @@ pricing:
   description: The classes are set at a base rate of £5.50
   plans:
     - plan: Pay per session
-      price: "5"
+      price: "5.50"
       description: Pay as you Go!
       items:
         - Great for Busy People
