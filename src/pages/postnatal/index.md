@@ -22,7 +22,8 @@ intro:
         resistance bands and a core pelvic floor section. These classes are
         currently running on Tuesday mornings 11-11:45 am at the Mortons bistro
         in Gilmorton, LE17 5LT and on Thursday mornings 10:30-11:15am at the
-        Blaby and Whetstone boys club, LE8 6LW. 
+        Blaby and Whetstone boys club, LE8 6LW and also on Friday mornings
+        10:15-11am at the Blaby and Whetstone Boys club, LE8 6LW.
       testheading: "Mum and Baby Fitness Classes "
     - image: /img/image4-1-.jpeg
       text: If you feel you need a more individualised fitness plan or extra help
@@ -59,10 +60,10 @@ testimonials:
 full_image: /img/image2.jpeg
 pricing:
   heading: How much do the classes cost?
-  description: The classes are set at a base rate of £5
+  description: The classes are set at a base rate of £5.50
   plans:
     - plan: Pay per session
-      price: "5"
+      price: "5.50"
       description: "Pay as you go "
       items:
         - Great for Busy People
