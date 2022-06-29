@@ -11,10 +11,11 @@ mainpitch:
     variations within each class to suit your ability. My aim is to not only see
     my clients achieving results, but to have them wanting to come back again
     and again.
-  timetableImage: /img/slc-leaflet-local-classes-july-2021-v3.jpg
+  timetableImage: /img/new-timetable-2022-june.jpg
 description: "Offering a range of Fitness classes based in Leicestershire
-  including: Barre Fitness, Legs Bums & Tums, Fat Burning and Postnatal Mum and
-  Baby Specialised classes. See timetable for more information. "
+  including: Barre Fitness, Legs Bums & Tums, Fat Burning, Tone it up, Adults
+  beginners dance classes and Postnatal Mum and Baby Specialised classes. See
+  timetable for more information. "
 intro:
   blurbs:
     - image: /img/image4-2-.jpeg
