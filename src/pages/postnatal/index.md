@@ -21,9 +21,8 @@ intro:
         classes we include cardio, weight training, body conditioning using
         resistance bands and a core pelvic floor section. These classes are
         currently running on Tuesday mornings 11-11:45 am at the Mortons bistro
-        in Gilmorton, LE17 5LT and on Thursday mornings 10:30-11:15am at the
-        Blaby and Whetstone boys club, LE8 6LW and also on Friday mornings
-        10:15-11am at the Blaby and Whetstone Boys club, LE8 6LW.
+        in Gilmorton, LE17 5LT and on Friday mornings 10:15-11am at the Blaby
+        and Whetstone Boys club, LE8 6LW.
       testheading: "Mum and Baby Fitness Classes "
     - image: /img/image4-1-.jpeg
       text: If you feel you need a more individualised fitness plan or extra help
@@ -70,12 +69,12 @@ pricing:
         - Avoid the Commitment of Block Bookings
         - Offers Flexibility for Busy Mums
     - plan: 1-1 Home personal training
-      price: "22"
-      description: £22 for a 1 hour home personal training session. (Block booking
+      price: "25"
+      description: £25 for a 1 hour home personal training session. (Block booking
         discount available)
       items:
         - Workouts Tailored to You
         - Personal Training Sessions in the Comfort of Your Own Home
         - Hassle Free as I Come to You
-timetableImage: /img/slc-pre-postnatal-leaflet-june-2021-final.jpg
+timetableImage: /img/mum-and-baby-2022.jpg
 ---
