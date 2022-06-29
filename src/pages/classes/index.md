@@ -33,7 +33,7 @@ intro:
       text: "30 minute body weight workout designed to burn fat and torch calories.
         Easy, intermediate and hard levels for each exercise so suitable for all
         fitness abilities. A class guaranteed to make you sweat. These classes
-        are run on Tuesday evenings 18:15-18:45 at the Robjohn hall, LE19
+        are run on Tuesday evenings 18:00-18:30 at the Robjohn hall, LE19
         2GS   "
       image: /img/slc-fitness-picture-6.jpg
   heading: This may be removed for now
@@ -76,5 +76,5 @@ pricing:
       items:
         - Affordable plan to keep you motivated
         - Access to all SLC Fitness content and classes
-timetableImage: /img/slc-leaflet-local-classes-july-2021-v3.jpg
+timetableImage: /img/new-timetable-2022-june.jpg
 ---
