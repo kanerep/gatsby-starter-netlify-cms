@@ -1,6 +1,6 @@
 ---
 heading: Fitness Classes Designed to Build Strong Mum's!
-path: /postnatal
+path: /mum-and-baby-fitness-classes
 templateKey: postnatal-page
 title: Mum and Baby Fitness
 image: /img/slc-fitness-picture-9.jpg
