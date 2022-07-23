@@ -36,6 +36,9 @@ intro:
         are run on Tuesday evenings 18:00-18:30 at the Robjohn hall, LE19
         2GS   "
       image: /img/slc-fitness-picture-6.jpg
+    - image: /img/barre-fitness-group.jpeg
+      testheading: "Testing adding another blurb "
+      text: Blurb test
   heading: This may be removed for now
   description: This may be remov
 main:
