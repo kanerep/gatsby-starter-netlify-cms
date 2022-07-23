@@ -1,4 +1,4 @@
-@import "~bulma/sass/utilities/initial-variables";
+@import '~bulma/sass/utilities/initial-variables';
 
 // Config vars
 $turqoise: #2deddd;
@@ -11,7 +11,7 @@ $black: #2b2523;
 $fullhd-enabled: false;
 $lg-mobile: 600px;
 
-@import "~bulma";
+@import '~bulma';
 
 .content h1,
 .content h2,
@@ -31,9 +31,9 @@ h3.subtitle {
 }
 
 .navbar {
-  box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
+  box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.2);
   .navbar-menu {
-    box-shadow:none !important;
+    box-shadow: none !important;
   }
 }
 
@@ -75,31 +75,31 @@ h3.subtitle {
 }
 
 .full-width-image {
-    width: 100vw;
-    height: 580px;
-    background-position: center !important;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-size: cover;
+  width: 100vw;
+  height: 580px;
+  background-position: center !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
 }
 
 .btn {
-    display: inline-block;
-    padding: 10px 16px;
-    font-size: 18px;
-    font-size: 1rem;
-    line-height: 1.25;
-    background-color: #fff;
-    border-radius: .25rem;
-    text-decoration: none;
-    font-weight: 700;
-    color: $primary;
-    text-align: center;
-    -webkit-box-shadow: inset 0 0 0 2px $primary;
-    box-shadow: inset 0 0 0 2px $primary;
-    -webkit-transition: all .15s ease;
-    transition: all .15s ease;
+  display: inline-block;
+  padding: 10px 16px;
+  font-size: 18px;
+  font-size: 1rem;
+  line-height: 1.25;
+  background-color: #fff;
+  border-radius: 0.25rem;
+  text-decoration: none;
+  font-weight: 700;
+  color: $primary;
+  text-align: center;
+  -webkit-box-shadow: inset 0 0 0 2px $primary;
+  box-shadow: inset 0 0 0 2px $primary;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
 }
 
 .margin-top-0 {
@@ -126,7 +126,7 @@ h3.subtitle {
   text-decoration: none;
   letter-spacing: 1px;
   font-weight: 400;
-  text-shadow: 0 0 1px rgba(255,255,255,0.3);
+  text-shadow: 0 0 1px rgba(255, 255, 255, 0.3);
   font-size: 1.15rem;
 }
 
@@ -151,7 +151,7 @@ h3.subtitle {
   color: #333;
 }
 .navbar-text-item:hover::after {
-  @include from ($desktop) {
+  @include from($desktop) {
     opacity: 1;
     -webkit-transform: translateY(0);
     -moz-transform: translateY(0);
@@ -167,7 +167,7 @@ h3.subtitle {
 
 .navbar-item.active {
   .navbar-text-item:after {
-    @include from ($desktop) {
+    @include from($desktop) {
       opacity: 1;
       transform: translateY(0);
     }
@@ -180,10 +180,10 @@ h3.subtitle {
   }
 
   .logo {
-    padding: .5rem .75rem;
+    padding: 0.5rem 0.75rem;
     max-height: 3.5rem;
 
-    @include from ($desktop) {
+    @include from($desktop) {
       max-height: 5rem;
     }
   }
@@ -202,7 +202,6 @@ footer.footer {
 // $menu-item-active-background-color:	$turqoise-invert;
 // $menu-list-border-left: 1px solid $turqoise-invert;
 // $menu-label-color: $white-ter;
-
 
 .menu-label {
   font-size: 1em !important;
@@ -231,14 +230,14 @@ footer.footer {
 }
 
 .social a {
-    padding: .5em .5em .3em .5em;
-    border-radius: 1em;
-    background-color: $primary;
-    margin: .5em;
-    width: 1em;
-    height: 1em;
-    vertical-align: middle;
-    display: inline;
+  padding: 0.5em 0.5em 0.3em 0.5em;
+  border-radius: 1em;
+  background-color: $primary;
+  margin: 0.5em;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  display: inline;
 }
 // blog roll
 .blog-list-item.is-featured {
@@ -255,18 +254,16 @@ footer.footer {
   margin: 0 1.5em 0 0;
 }
 
-
-
 // responsiveness
 .blog-list-item .featured-thumbnail {
-  @include from ($tablet) {
+  @include from($tablet) {
     flex-basis: 50%;
   }
 }
 
 .blog-list-item header {
   @include mobile {
-    display: block
+    display: block;
   }
 }
 
@@ -278,16 +275,17 @@ footer.footer {
   }
 }
 
-// Side by side component 
+// Side by side component
 
 .side-by-side-feature {
   padding: 1rem 0;
 
   .columns {
-    box-shadow: 0 0.5em 1em -0.125em rgba(43, 37, 35, 0.1), 0 0px 0 1px rgba(43, 37, 35, 0.02);
+    box-shadow: 0 0.5em 1em -0.125em rgba(43, 37, 35, 0.1),
+      0 0px 0 1px rgba(43, 37, 35, 0.02);
     &:not(:last-child) {
       @include mobile {
-        margin-bottom: 2rem!important;
+        margin-bottom: 2rem !important;
       }
     }
   }
@@ -319,11 +317,11 @@ footer.footer {
     height: 100%;
     padding: 1rem;
 
-    @include from ($tablet) {
+    @include from($tablet) {
       padding: 0 1rem;
     }
 
-    @include from ($desktop) {
+    @include from($desktop) {
       padding: 2.5rem 1.25rem;
     }
 
@@ -346,7 +344,7 @@ footer.footer {
     &.is-cta {
       transition: ease-in-out all 300ms;
       padding-right: 2em;
-      
+
       &:hover,
       :focus,
       :active {
@@ -401,7 +399,7 @@ footer.footer {
   //   align-items: flex-start;
   // }
 
-  @include until ($desktop) {
+  @include until($desktop) {
     padding: 1.5rem;
   }
 }
@@ -427,7 +425,7 @@ footer.footer {
   flex-direction: column;
   justify-content: space-evenly;
 
-  @include from ($lg-mobile) {
+  @include from($lg-mobile) {
     flex-direction: row;
   }
 
@@ -436,7 +434,7 @@ footer.footer {
     margin-bottom: 1rem;
     background: #f9f9f9;
 
-    @include from ($lg-mobile) {
+    @include from($lg-mobile) {
       width: 40%;
       margin: 0;
     }
@@ -456,7 +454,7 @@ footer.footer {
   list-style: none;
 }
 
-// overwrite bulma 
+// overwrite bulma
 
 .content .contact ul {
   list-style: none;
@@ -467,11 +465,11 @@ footer.footer {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  
+
   a {
     display: flex;
     position: relative;
-    padding: .25rem;
+    padding: 0.25rem;
     height: 100%;
 
     &:hover {
@@ -485,9 +483,9 @@ footer.footer {
     display: flex;
     align-items: center;
     position: absolute;
-    background: rgba(66, 183, 167, .8);
-    margin: .25rem;
-    padding: .75rem;
+    background: rgba(66, 183, 167, 0.8);
+    margin: 0.25rem;
+    padding: 0.75rem;
     top: 0;
     right: 0;
     bottom: 0;
@@ -495,7 +493,7 @@ footer.footer {
     overflow: hidden;
     opacity: 0;
     transition: all ease-in-out 250ms;
-    
+
     span {
       height: auto;
       overflow: hidden;
@@ -533,9 +531,17 @@ footer.footer {
   margin-left: 0;
 }
 
-body.has-navbar-fixed-top, html.has-navbar-fixed-top {
+body.has-navbar-fixed-top,
+html.has-navbar-fixed-top {
   padding-top: 3.25rem;
-  @include from ($desktop) {
+  @include from($desktop) {
     padding-top: 5rem;
+  }
+}
+
+.baby-video {
+  padding: 2rem 0;
+  @include from($desktop) {
+    max-height: 600px;
   }
 }

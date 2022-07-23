@@ -7,8 +7,9 @@ import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 import Testimonials from '../components/Testimonials'
 import Instagram from '../components/Instagram'
-
+import video from '../img/SLC-Fitness-LANDSCAPE.mp4'
 import logo from '../img/finalSLClogo.png'
+import awardImage from '../img/image0.png'
 
 export const IndexPageTemplate = ({
     image,
@@ -75,6 +76,9 @@ export const IndexPageTemplate = ({
                                 <div>
                                     <h3 className='subtitle'>{mainpitch.description}</h3>
                                 </div>
+                                <video controls style={{width: '100%'}}>
+                                    <source src={video} type="video/mp4"/>
+                                </video>
                             </div>
                             <div className='columns'>
                                 <div className='column is-12 has-text-centered'>
@@ -100,11 +104,16 @@ export const IndexPageTemplate = ({
 																</Link>
 															</div>
 														</div> */}
+                    
                             <div className='section'>
+                                
                                 <h2 className='has-text-weight-semibold is-size-2 has-text-centered'>
                                     What some of our members say
                                 </h2>
                                 <Testimonials testimonials={testimonials} />
+                            </div>
+                            <div style={{ display: 'flex', justifyContent: 'center'}}>
+                                <img src={awardImage} style={{maxWidth: '200px'}}/>
                             </div>
                             {/* <Instagram /> */}
                             {mainpitch.timetableImage ? (
@@ -115,6 +124,7 @@ export const IndexPageTemplate = ({
                                     />
                                 </div>
                             ) : null}
+                          
                         </div>
                     </div>
                 </div>
