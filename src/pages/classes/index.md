@@ -36,6 +36,13 @@ intro:
         are run on Tuesday evenings 18:00-18:30 at the Robjohn hall, LE19
         2GS   "
       image: /img/slc-fitness-picture-6.jpg
+    - image: /img/slc-fitness-fun-2.jpg
+      testheading: Beginners Adults Dance Class
+      text: A 45 minute beginners adults dance class where no previous dance
+        experience is required. Learn a new routine to your favourite songs each
+        week. You are guaranteed to have learnt some new moves and have fun
+        whilst doing it! These classes run every Tuesday 18:30-:19:15 at the
+        Robjohn hall in Narborough LE19 2GS
   heading: This may be removed for now
   description: This may be remov
 main:
