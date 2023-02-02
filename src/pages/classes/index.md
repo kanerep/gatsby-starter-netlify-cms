@@ -1,9 +1,9 @@
 ---
-heading: A Wide Selection of Fitness Classes for ALL!
-path: /classes
 templateKey: classes-page
 title: " Classes"
 image: /img/slc-fitness-fun.jpg
+heading: A Wide Selection of Fitness Classes for ALL!
+path: /classes
 description: "Whether it be Fat Burning, Barre Fitness, Legs Bums and Tums,
   Toning Weight Classes or Adults beginners dance classes there is a class for
   everyone at SLC Fitness! I offer adaptations and Easy, Intermediate and Hard
@@ -12,12 +12,19 @@ description: "Whether it be Fat Burning, Barre Fitness, Legs Bums and Tums,
 intro:
   blurbs:
     - image: /img/thumbnail_image0-1-.jpg
-      text: "A 45 minute workout using the basic techniques and positions in ballet to
+      text: A 45 minute workout using the basic techniques and positions in ballet to
         tone, strengthen and lengthen your body. Using the ballet Barre this
         class will help with posture, core strength, flexibility and much more.
-        These classes are run on Monday evenings at the COPAH Studios, Hinckley,
-        LE10 1QW  "
+        These classes are run on Monday evenings at the Blaby and whetstone boys
+        club, Whetstone
       testheading: Barre Fitness
+    - testheading: "Fat Burning "
+      text: "30 minute body weight workout designed to burn fat and torch calories.
+        Easy, intermediate and hard levels for each exercise so suitable for all
+        fitness abilities. A class guaranteed to make you sweat. These classes
+        are run on Tuesday evenings 18:00-18:30 at the Robjohn hall, LE19
+        2GS   "
+      image: /img/slc-fitness-picture-6.jpg
     - image: /img/slc-fitness-legs-bums.jpg
       text: A  workout designed to sculpt and target your Legs, Bums and Tums. An easy
         to follow, enjoyable workout designed for all abilities. These classes
@@ -29,13 +36,6 @@ intro:
         
         A full body workout using weights. A class designed to build strength and stamina whilst sculpting and toning the body. Suitable for all fitness levels. Options to use lighter or heavier weights. These classes are run on Thursday evenings 18:45-19:30 at the Blaby and Whetstone boys club, LE8 6LW
       testheading: "Tone it Up "
-    - testheading: "Fat Burning "
-      text: "30 minute body weight workout designed to burn fat and torch calories.
-        Easy, intermediate and hard levels for each exercise so suitable for all
-        fitness abilities. A class guaranteed to make you sweat. These classes
-        are run on Tuesday evenings 18:00-18:30 at the Robjohn hall, LE19
-        2GS   "
-      image: /img/slc-fitness-picture-6.jpg
     - image: /img/slc-fitness-fun-2.jpg
       testheading: Beginners Adults Dance Class
       text: A 45 minute beginners adults dance class where no previous dance
