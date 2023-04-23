@@ -9,9 +9,9 @@ import { withPrefix } from 'gatsby'
 const TemplateWrapper = ({ children }) => {
 	const { title, description } = useSiteMetadata()
 	return (
-		<div className='site-wrapper'>
+		<div className='site-wrapper has-navbar-fixed-top'>
 			<Helmet>
-				<html lang='en' className='has-navbar-fixed-top' />
+				<html lang='en' />
 				<title>{title}</title>
 				<meta name='description' content={description} />
 

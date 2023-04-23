@@ -1,13 +1,14 @@
 @import '~bulma/sass/utilities/initial-variables';
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
 
 // Config vars
 $turqoise: #7dd7d4;
 $turqoise-invert: #fff;
 
-$dark: #181b1c;
+$dark: #252525;
 $primary: $turqoise;
 $primary-invert: $turqoise-invert;
-$body-color: #333;
+$body-color: #f9f9f9;
 $black: #1f2324;
 $fullhd-enabled: false;
 $lg-mobile: 600px;
@@ -17,7 +18,20 @@ $lg-mobile: 600px;
 .has-primary-font {
 	font-family: 'Robecha Daniera', sans-serif;
 }
-
+.has-primary-color {
+	color: $primary;
+}
+nav,
+body {
+	background: $dark !important;
+	font-family: 'Playfair Display', serif;
+	font-weight: 500;
+	p {
+		color: #f9f9f9;
+		font-size: 18px;
+		font-weight: 500;
+	}
+}
 .content h1,
 .content h2,
 .content h3,
@@ -33,15 +47,17 @@ $lg-mobile: 600px;
 }
 
 h3.subtitle {
-	color: #4a4a4a;
-	font-family: 'Open-sans', sans-serif;
-	font-weight: 400;
+	color: #f9f9f9;
+	font-family: 'Playfair Display', serif;
+	font-weight: 500;
 	font-size: 1.25rem;
+	line-height: 1.45;
 }
 
 .navbar {
 	box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.2);
 	.navbar-menu {
+		background: $dark;
 		box-shadow: none !important;
 	}
 }
@@ -127,11 +143,18 @@ h3.subtitle {
 	color: $primary;
 }
 
+.navbar-item:hover {
+	@include until($tablet) {
+		background: #4a4a4a !important;
+		color: $primary !important;
+	}
+}
+
 .navbar-text-item {
 	position: relative;
 	display: flex;
 	outline: none;
-	color: #333;
+	color: #f9f9f9;
 	text-decoration: none;
 	letter-spacing: 1px;
 	font-weight: 400;
@@ -157,7 +180,7 @@ h3.subtitle {
 }
 
 .navbar-text-item:hover {
-	color: #333;
+	color: $primary;
 }
 .navbar-text-item:hover::after {
 	@include from($desktop) {
@@ -175,6 +198,9 @@ h3.subtitle {
 }
 
 .navbar-item.active {
+	span {
+		color: $primary;
+	}
 	.navbar-text-item:after {
 		@include from($desktop) {
 			opacity: 1;
@@ -199,8 +225,8 @@ h3.subtitle {
 }
 
 footer.footer {
-	padding: 3rem 0rem 0rem;
-	background-color: transparent;
+	padding: 3rem 0 1rem 0;
+	background-color: $dark;
 	margin-top: auto;
 }
 //Menu overrides
@@ -236,6 +262,12 @@ footer.footer {
 .social,
 .column.contact {
 	padding: 2em;
+}
+
+.social h5 {
+	color: $primary;
+	font-weight: 600;
+	padding-bottom: 0.5rem;
 }
 
 .social a {
@@ -312,7 +344,7 @@ footer.footer {
 	}
 
 	.background-color {
-		background-color: slategrey;
+		background-color: #333;
 
 		&.alt-colours {
 			background-color: $turqoise;
@@ -441,7 +473,7 @@ footer.footer {
 	.box {
 		width: 100%;
 		margin-bottom: 1rem;
-		background: #f9f9f9;
+		background: #333;
 
 		@include from($lg-mobile) {
 			width: 40%;
@@ -452,7 +484,8 @@ footer.footer {
 
 .message-body {
 	border-color: $turqoise;
-	background: #f9f9f9;
+	background: #333;
+	color: #f9f9f9;
 
 	.cite {
 		font-weight: bold;
@@ -528,6 +561,11 @@ footer.footer {
 
 .copyright-wrapper {
 	padding: 2rem 0 1rem 0;
+	p {
+		font-size: 14px;
+		color: #f9f9f9;
+		font-weight: 400;
+	}
 }
 
 .navbar-burger {

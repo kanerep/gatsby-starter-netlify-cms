@@ -58,7 +58,14 @@ export const ClassesPageTemplate = ({
 							<h3 className='has-text-weight-semibold has-text-centered is-size-2'>
 								{main.heading}
 							</h3>
-							<p className='has-text-centered'>{main.description}</p>
+							{main && main.description && (
+								<p
+									className='has-text-centered'
+									style={{ marginBottom: '16px' }}
+								>
+									{main.description}
+								</p>
+							)}
 						</div>
 						<Testimonials testimonials={testimonials} />
 						<div style={{ display: 'flex', justifyContent: 'center' }}>
