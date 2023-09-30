@@ -1,14 +1,14 @@
 ---
+heading: A Wide Selection of Fitness Classes for ALL!
+path: /classes
 templateKey: classes-page
 title: " Classes"
 image: /img/slc-fitness-fun.jpg
-heading: A Wide Selection of Fitness Classes for ALL!
-path: /classes
 description: "Whether it be Fat Burning, Barre Fitness, Legs Bums and Tums,
-  Toning Weight Classes or Adults beginners dance classes there is a class for
-  everyone at SLC Fitness! I offer adaptations and Easy, Intermediate and Hard
-  Levels in each class so they really are suitable for ALL fitness levels.
-  Please see timetable for more information. "
+  Toning Weight Classes or Dance Fitness classes there is a class for everyone
+  at SLC Fitness! I offer adaptations and Easy, Intermediate and Hard Levels in
+  each class so they really are suitable for ALL fitness levels. Please see
+  timetable for more information. "
 intro:
   blurbs:
     - image: /img/thumbnail_image0-1-.jpg
@@ -39,10 +39,10 @@ intro:
     - image: /img/slc-fitness-fun-2.jpg
       testheading: Beginners Adults Dance Class
       text: A 45 minute beginners adults dance class where no previous dance
-        experience is required. Learn a new routine to your favourite songs each
-        week. You are guaranteed to have learnt some new moves and have fun
-        whilst doing it! These classes run every Tuesday 18:30-:19:15 at the
-        Robjohn hall in Narborough LE19 2GS
+        experience is required. Dance and sweat away to your favourite songs!
+        You are guaranteed to have learnt some new moves and have fun whilst
+        doing it! These classes run every Tuesday 18:30-:19:15 at the Robjohn
+        hall in Narborough LE19 2GS
   heading: This may be removed for now
   description: This may be remov
 main:
@@ -83,5 +83,5 @@ pricing:
       items:
         - Affordable plan to keep you motivated
         - Access to all SLC Fitness content and classes
-timetableImage: /img/new-timetable-2022-june.jpg
+timetableImage: /img/sam-timetable.jpg
 ---
