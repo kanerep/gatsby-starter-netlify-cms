@@ -20,16 +20,18 @@ intro:
         A 45 minute class designed to strengthen and build stamina. In these
         classes we include cardio, weight training, body conditioning using
         resistance bands and a core pelvic floor section. These classes are
-        currently running on Tuesday mornings 11-11:45 am at the Mortons bistro
-        in Gilmorton, LE17 5LT and on Friday mornings 10:15-11am at the Blaby
-        and Whetstone Boys club, LE8 6LW.
+        currently running on Tuesday mornings 10:15-11:00 am at the Cosby
+        Village hall, LE9 1RN and on Friday mornings 10:15-11am at the Blaby and
+        Whetstone Boys club, LE8 6LW.
       testheading: "Mum and Baby Fitness Classes "
     - image: /img/image4-1-.jpeg
-      text: If you feel you need a more individualised fitness plan or extra help
+      text: "If you feel you need a more individualised fitness plan or extra help
         after your pregnancy or during your pregnancy, then I offer personal
         training sessions in the comfort of your own homes or location of your
         choice. I bring all the equipment to you so again, there is no need to
-        find childcare or even leave the house!
+        find childcare or even leave the house! I also offer 2-1 personal
+        training if you also want to do your sessions with a friend. I offer
+        training plans, accountability and help and guidance with nutrition. "
       testheading: "1-1 Personal Training Sessions "
   heading: This may be removed for now
   description: "This may be removed for now "
@@ -69,9 +71,10 @@ pricing:
         - Avoid the Commitment of Block Bookings
         - Offers Flexibility for Busy Mums
     - plan: 1-1 Home personal training
-      price: "25"
-      description: £25 for a 1 hour home personal training session. (Block booking
-        discount available)
+      price: "25-£35 "
+      description: Prices depend on location and whether you are training 1-1 or 2-1
+        (Block booking discount available, please get in touch for specific
+        pricing)
       items:
         - Workouts Tailored to You
         - Personal Training Sessions in the Comfort of Your Own Home
