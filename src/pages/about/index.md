@@ -11,7 +11,7 @@ However, with the dance industry comes a very specific way your body needs to be
 
 # "My classes are guaranteed to leave you with sweat dripping down your smiling face!"
 
-![](/img/slc-fitness-me.jpg)
+![](/img/sam-2.jpg)
 
 **SLC Fitness** first started in a very tragic time for me. I was previously in Australia where I got offered a year long dance contract. However I received the the worst news of my life; my mum had been diagnosed with terminal brain cancer and was given 6 months - 1 year to live. My whole world turned upside down and I had to leave my dance career behind and fly back to the UK to be by my mum's side.
 
@@ -23,8 +23,8 @@ This life changing and traumatic experience displayed to me the power of exercis
 
 Whether it be general weight loss, toning or just to be active and socialise, I'm here to help you on your fitness journey and make you feel fabulous!
 
-![Barre fitness Sam Chandler](/img/barre-fitness.jpeg "Sam chandler - Barre fitness")
+![Barre fitness Sam Chandler](/img/sam.jpg "Sam chandler - Barre fitness")
 
 ### Qualifications
 
-I am a professionally trained dancer, Level 2 Fitness Instructor, Level 3 Pre and Postnatal Exercise, an Advanced Postnatal Exercise and Wellness Practitioner, Advanced Pregnancy exercise and wellness practitioner,  Level 2 Gym instructor and Level 3 personal trainer. As well as this, I have obtained a Certificate in Nutrition awarded by Optimum Nutrition. I absolutely love teaching all my classes but I felt that the postnatal client is very neglected when it comes to help with recovery and getting back into exercise safely. This lack of representation and services for the postnatal client is what lead me to become specialised in this field.
+I am a professionally trained dancer, Level 2 Fitness Instructor, Level 3 Personal Trainer, Level 3 Pre and Postnatal Exercise, an Advanced Postnatal Exercise and Wellness Practitioner, Advanced Pregnancy exercise and wellness practitioner and a Level 2 Gym instructor. As well as this, I have obtained a Certificate in Nutrition awarded by Optimum Nutrition. I absolutely love teaching all my classes but I felt that the postnatal client is very neglected when it comes to help with recovery and getting back into exercise safely. This lack of representation and services for the postnatal client is what lead me to become specialised in this field.
