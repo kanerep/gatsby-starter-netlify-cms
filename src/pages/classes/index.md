@@ -37,7 +37,7 @@ intro:
         A full body workout using weights. A class designed to build strength and stamina whilst sculpting and toning the body. Suitable for all fitness levels. Options to use lighter or heavier weights. These classes are run on Thursday evenings 18:45-19:30 at the Blaby and Whetstone boys club, LE8 6LW
       testheading: "Tone it Up "
     - image: /img/slc-fitness-fun-2.jpg
-      testheading: Beginners Adults Dance Class
+      testheading: Dance Fitness
       text: A 45 minute beginners adults dance class where no previous dance
         experience is required. Dance and sweat away to your favourite songs!
         You are guaranteed to have learnt some new moves and have fun whilst
@@ -71,14 +71,14 @@ pricing:
   description: The classes are set at a base rate of £5.50
   plans:
     - plan: Pay per session
-      price: "5.50"
+      price: "6.50"
       description: Pay as you Go!
       items:
         - Great for Busy People
         - No Commitment
         - Cheap and Affordable
     - plan: "Monthly "
-      price: "32"
+      price: "36"
       description: Access to all classes for the month including recordings
       items:
         - Affordable plan to keep you motivated
