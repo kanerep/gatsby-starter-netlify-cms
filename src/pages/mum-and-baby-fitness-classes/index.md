@@ -20,9 +20,9 @@ intro:
         A 45 minute class designed to strengthen and build stamina. In these
         classes we include cardio, weight training, body conditioning using
         resistance bands and a core pelvic floor section. These classes are
-        currently running on Tuesday mornings 10:15-11:00 am at the Cosby
-        Village hall, LE9 1RN and on Friday mornings 10:15-11am at the Blaby and
-        Whetstone Boys club, LE8 6LW.
+        currently running on Tuesday and Wednesday mornings 10:15-11:00 am at
+        the Cosby Village hall, LE9 1RN and on Friday mornings 10:15-11am at the
+        Blaby and Whetstone Boys club, LE8 6LW.
       testheading: "Mum and Baby Fitness Classes "
     - image: /img/image4-1-.jpeg
       text: "If you feel you need a more individualised fitness plan or extra help
@@ -64,14 +64,14 @@ pricing:
   description: The classes are set at a base rate of £5.50
   plans:
     - plan: Pay per session
-      price: "5.50"
+      price: "6.50"
       description: "Pay as you go "
       items:
         - Great for Busy People
         - Avoid the Commitment of Block Bookings
         - Offers Flexibility for Busy Mums
     - plan: 1-1 Home personal training
-      price: "25-£35 "
+      price: "27-£37 "
       description: Prices depend on location and whether you are training 1-1 or 2-1
         (Block booking discount available, please get in touch for specific
         pricing)
