@@ -27,11 +27,11 @@ intro:
     - image: /img/image4-1-.jpeg
       text: "If you feel you need a more individualised fitness plan or extra help
         after your pregnancy or during your pregnancy, then I offer personal
-        training sessions in the comfort of your own homes or location of your
-        choice. I bring all the equipment to you so again, there is no need to
-        find childcare or even leave the house! I also offer 2-1 personal
-        training if you also want to do your sessions with a friend. I offer
-        training plans, accountability and help and guidance with nutrition. "
+        training sessions based at HLP physio centre based in Enderby. Babies
+        are welcome during our sessions if they are non movers! I also offer 2-1
+        personal training if you also want to do your sessions with a friend. I
+        offer training plans, accountability and help and guidance with
+        nutrition. "
       testheading: "1-1 Personal Training Sessions "
   heading: This may be removed for now
   description: "This may be removed for now "
