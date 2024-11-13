@@ -61,7 +61,7 @@ testimonials:
 full_image: /img/image2.jpeg
 pricing:
   heading: How much do the classes cost?
-  description: The classes are set at a base rate of £5.50
+  description: The classes are set at a base rate of £6.50
   plans:
     - plan: Pay per session
       price: "6.50"
@@ -70,14 +70,12 @@ pricing:
         - Great for Busy People
         - Avoid the Commitment of Block Bookings
         - Offers Flexibility for Busy Mums
-    - plan: 1-1 Home personal training
-      price: "27-£37 "
-      description: Prices depend on location and whether you are training 1-1 or 2-1
-        (Block booking discount available, please get in touch for specific
-        pricing)
+    - plan: 1-1 personal training
+      price: 35-£45
+      description: 1-1 or 2-1 (Block booking discount available, please get in touch
+        for specific pricing)
       items:
         - Workouts Tailored to You
-        - Personal Training Sessions in the Comfort of Your Own Home
-        - Hassle Free as I Come to You
+        - Access to my app where you can track and lock your progress
 timetableImage: /img/mum-and-baby-2022.jpg
 ---
